@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>AccentFold</title>
+	<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+	<h1>AccentFold</h1>
+
+	<p>
+		Enter some text with accents below, and the folded text will appear beneath as you type.
+	</p>
+	<form>
+		<input type="text" id="example" placeholder="enter text">
+		<input type="text" class="output" id="output" tabindex="-1" readonly>
+	</form>
+
+	<hr>
+
+	<p>
+		More examples below.
+	</p>
+
+	<table cellpadding="0" cellspacing="0">
+		<thead>
+			<tr>
+				<th>original</th>
+				<th>folded</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td data-fold="folded-1">Jérôme</td>
+				<td id="folded-1"></td>
+			</tr>
+			<tr>
+				<td data-fold="folded-2">attaché</td>
+				<td id="folded-2"></td>
+			</tr>
+			<tr>
+				<td data-fold="folded-3">soufflé</td>
+				<td id="folded-3"></td>
+			</tr>
+			<tr>
+				<td data-fold="folded-4">naïve</td>
+				<td id="folded-4"></td>
+			</tr>
+			<tr>
+				<td data-fold="folded-5">lookèd</td>
+				<td id="folded-5"></td>
+			</tr>
+		</tbody>
+	</table>
+	<script src="../../tmp/demo.js"></script>
+</body>
+</html>

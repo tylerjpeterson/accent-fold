@@ -1,0 +1,5122 @@
+[
+	{
+		"character": "!",
+		"description": "exclamation mark",
+		"folded": "!"
+	},
+	{
+		"character": "\"",
+		"description": "quotation mark",
+		"folded": "\""
+	},
+	{
+		"character": "#",
+		"description": "number sign",
+		"folded": "#"
+	},
+	{
+		"character": "$",
+		"description": "dollar sign",
+		"folded": "$"
+	},
+	{
+		"character": "%",
+		"description": "percent sign",
+		"folded": "%"
+	},
+	{
+		"character": "&",
+		"description": "ampersand",
+		"folded": "&"
+	},
+	{
+		"character": "'",
+		"description": "apostrophe",
+		"folded": "'"
+	},
+	{
+		"character": "(",
+		"description": "left parenthesis",
+		"folded": "("
+	},
+	{
+		"character": ")",
+		"description": "right parenthesis",
+		"folded": ")"
+	},
+	{
+		"character": "*",
+		"description": "asterisk",
+		"folded": "*"
+	},
+	{
+		"character": "+",
+		"description": "plus sign",
+		"folded": "+"
+	},
+	{
+		"character": ",",
+		"description": "comma",
+		"folded": ","
+	},
+	{
+		"character": "-",
+		"description": "hyphen-minus",
+		"folded": "-"
+	},
+	{
+		"character": ".",
+		"description": "full stop",
+		"folded": "."
+	},
+	{
+		"character": "/",
+		"description": "solidus",
+		"folded": "/"
+	},
+	{
+		"character": "0",
+		"description": "digit zero",
+		"folded": "0"
+	},
+	{
+		"character": "1",
+		"description": "digit one",
+		"folded": "1"
+	},
+	{
+		"character": "2",
+		"description": "digit two",
+		"folded": "2"
+	},
+	{
+		"character": "3",
+		"description": "digit three",
+		"folded": "3"
+	},
+	{
+		"character": "4",
+		"description": "digit four",
+		"folded": "4"
+	},
+	{
+		"character": "5",
+		"description": "digit five",
+		"folded": "5"
+	},
+	{
+		"character": "6",
+		"description": "digit six",
+		"folded": "6"
+	},
+	{
+		"character": "7",
+		"description": "digit seven",
+		"folded": "7"
+	},
+	{
+		"character": "8",
+		"description": "digit eight",
+		"folded": "8"
+	},
+	{
+		"character": "9",
+		"description": "digit nine",
+		"folded": "9"
+	},
+	{
+		"character": ":",
+		"description": "colon",
+		"folded": ":"
+	},
+	{
+		"character": ";",
+		"description": "semicolon",
+		"folded": ";"
+	},
+	{
+		"character": "<",
+		"description": "less-than sign",
+		"folded": "<"
+	},
+	{
+		"character": "=",
+		"description": "equals sign",
+		"folded": "="
+	},
+	{
+		"character": ">",
+		"description": "greater-than sign",
+		"folded": ">"
+	},
+	{
+		"character": "?",
+		"description": "question mark",
+		"folded": "?"
+	},
+	{
+		"character": "@",
+		"description": "commercial at",
+		"folded": "@"
+	},
+	{
+		"character": "A",
+		"description": "latin capital letter a",
+		"folded": "a"
+	},
+	{
+		"character": "B",
+		"description": "latin capital letter b",
+		"folded": "b"
+	},
+	{
+		"character": "C",
+		"description": "latin capital letter c",
+		"folded": "c"
+	},
+	{
+		"character": "D",
+		"description": "latin capital letter d",
+		"folded": "d"
+	},
+	{
+		"character": "E",
+		"description": "latin capital letter e",
+		"folded": "e"
+	},
+	{
+		"character": "F",
+		"description": "latin capital letter f",
+		"folded": "f"
+	},
+	{
+		"character": "G",
+		"description": "latin capital letter g",
+		"folded": "g"
+	},
+	{
+		"character": "H",
+		"description": "latin capital letter h",
+		"folded": "h"
+	},
+	{
+		"character": "I",
+		"description": "latin capital letter i",
+		"folded": "i"
+	},
+	{
+		"character": "J",
+		"description": "latin capital letter j",
+		"folded": "j"
+	},
+	{
+		"character": "K",
+		"description": "latin capital letter k",
+		"folded": "k"
+	},
+	{
+		"character": "L",
+		"description": "latin capital letter l",
+		"folded": "l"
+	},
+	{
+		"character": "M",
+		"description": "latin capital letter m",
+		"folded": "m"
+	},
+	{
+		"character": "N",
+		"description": "latin capital letter n",
+		"folded": "n"
+	},
+	{
+		"character": "O",
+		"description": "latin capital letter o",
+		"folded": "o"
+	},
+	{
+		"character": "P",
+		"description": "latin capital letter p",
+		"folded": "p"
+	},
+	{
+		"character": "Q",
+		"description": "latin capital letter q",
+		"folded": "q"
+	},
+	{
+		"character": "R",
+		"description": "latin capital letter r",
+		"folded": "r"
+	},
+	{
+		"character": "S",
+		"description": "latin capital letter s",
+		"folded": "s"
+	},
+	{
+		"character": "T",
+		"description": "latin capital letter t",
+		"folded": "t"
+	},
+	{
+		"character": "U",
+		"description": "latin capital letter u",
+		"folded": "u"
+	},
+	{
+		"character": "V",
+		"description": "latin capital letter v",
+		"folded": "v"
+	},
+	{
+		"character": "W",
+		"description": "latin capital letter w",
+		"folded": "w"
+	},
+	{
+		"character": "X",
+		"description": "latin capital letter x",
+		"folded": "x"
+	},
+	{
+		"character": "Y",
+		"description": "latin capital letter y",
+		"folded": "y"
+	},
+	{
+		"character": "Z",
+		"description": "latin capital letter z",
+		"folded": "z"
+	},
+	{
+		"character": "[",
+		"description": "left square bracket",
+		"folded": "["
+	},
+	{
+		"character": "\\",
+		"description": "reverse solidus",
+		"folded": "\\"
+	},
+	{
+		"character": "]",
+		"description": "right square bracket",
+		"folded": "]"
+	},
+	{
+		"character": "^",
+		"description": "circumflex accent",
+		"folded": "^"
+	},
+	{
+		"character": "_",
+		"description": "low line",
+		"folded": "_"
+	},
+	{
+		"character": "`",
+		"description": "grave accent",
+		"folded": "`"
+	},
+	{
+		"character": "a",
+		"description": "latin small letter a",
+		"folded": "a"
+	},
+	{
+		"character": "b",
+		"description": "latin small letter b",
+		"folded": "b"
+	},
+	{
+		"character": "c",
+		"description": "latin small letter c",
+		"folded": "c"
+	},
+	{
+		"character": "d",
+		"description": "latin small letter d",
+		"folded": "d"
+	},
+	{
+		"character": "e",
+		"description": "latin small letter e",
+		"folded": "e"
+	},
+	{
+		"character": "f",
+		"description": "latin small letter f",
+		"folded": "f"
+	},
+	{
+		"character": "g",
+		"description": "latin small letter g",
+		"folded": "g"
+	},
+	{
+		"character": "h",
+		"description": "latin small letter h",
+		"folded": "h"
+	},
+	{
+		"character": "i",
+		"description": "latin small letter i",
+		"folded": "i"
+	},
+	{
+		"character": "j",
+		"description": "latin small letter j",
+		"folded": "j"
+	},
+	{
+		"character": "k",
+		"description": "latin small letter k",
+		"folded": "k"
+	},
+	{
+		"character": "l",
+		"description": "latin small letter l",
+		"folded": "l"
+	},
+	{
+		"character": "m",
+		"description": "latin small letter m",
+		"folded": "m"
+	},
+	{
+		"character": "n",
+		"description": "latin small letter n",
+		"folded": "n"
+	},
+	{
+		"character": "o",
+		"description": "latin small letter o",
+		"folded": "o"
+	},
+	{
+		"character": "p",
+		"description": "latin small letter p",
+		"folded": "p"
+	},
+	{
+		"character": "q",
+		"description": "latin small letter q",
+		"folded": "q"
+	},
+	{
+		"character": "r",
+		"description": "latin small letter r",
+		"folded": "r"
+	},
+	{
+		"character": "s",
+		"description": "latin small letter s",
+		"folded": "s"
+	},
+	{
+		"character": "t",
+		"description": "latin small letter t",
+		"folded": "t"
+	},
+	{
+		"character": "u",
+		"description": "latin small letter u",
+		"folded": "u"
+	},
+	{
+		"character": "v",
+		"description": "latin small letter v",
+		"folded": "v"
+	},
+	{
+		"character": "w",
+		"description": "latin small letter w",
+		"folded": "w"
+	},
+	{
+		"character": "x",
+		"description": "latin small letter x",
+		"folded": "x"
+	},
+	{
+		"character": "y",
+		"description": "latin small letter y",
+		"folded": "y"
+	},
+	{
+		"character": "z",
+		"description": "latin small letter z",
+		"folded": "z"
+	},
+	{
+		"character": "{",
+		"description": "left curly bracket",
+		"folded": "{"
+	},
+	{
+		"character": "|",
+		"description": "vertical line",
+		"folded": "|"
+	},
+	{
+		"character": "}",
+		"description": "right curly bracket",
+		"folded": "}"
+	},
+	{
+		"character": "~",
+		"description": "tilde",
+		"folded": "~"
+	},
+	{
+		"character": "",
+		"description": "delete",
+		"folded": ""
+	},
+	{
+		"character": "€",
+		"description": "&lt;control&gt;",
+		"folded": "€"
+	},
+	{
+		"character": "",
+		"description": "&lt;control&gt;",
+		"folded": ""
+	},
+	{
+		"character": "‚",
+		"description": "break permitted here",
+		"folded": "‚"
+	},
+	{
+		"character": "ƒ",
+		"description": "no break here",
+		"folded": "f"
+	},
+	{
+		"character": "„",
+		"description": "&lt;control&gt;",
+		"folded": "„"
+	},
+	{
+		"character": "…",
+		"description": "next line (nel)",
+		"folded": "…"
+	},
+	{
+		"character": "†",
+		"description": "start of selected area",
+		"folded": "†"
+	},
+	{
+		"character": "‡",
+		"description": "end of selected area",
+		"folded": "‡"
+	},
+	{
+		"character": "ˆ",
+		"description": "character tabulation set",
+		"folded": "ˆ"
+	},
+	{
+		"character": "‰",
+		"description": "character tabulation with justification",
+		"folded": "‰"
+	},
+	{
+		"character": "Š",
+		"description": "line tabulation set",
+		"folded": "s"
+	},
+	{
+		"character": "‹",
+		"description": "partial line forward",
+		"folded": "‹"
+	},
+	{
+		"character": "Œ",
+		"description": "partial line backward",
+		"folded": "œ"
+	},
+	{
+		"character": "",
+		"description": "reverse line feed",
+		"folded": ""
+	},
+	{
+		"character": "Ž",
+		"description": "single shift two",
+		"folded": "z"
+	},
+	{
+		"character": "",
+		"description": "single shift three",
+		"folded": ""
+	},
+	{
+		"character": "",
+		"description": "device control string",
+		"folded": ""
+	},
+	{
+		"character": "‘",
+		"description": "private use one",
+		"folded": "‘"
+	},
+	{
+		"character": "’",
+		"description": "private use two",
+		"folded": "’"
+	},
+	{
+		"character": "“",
+		"description": "set transmit state",
+		"folded": "“"
+	},
+	{
+		"character": "”",
+		"description": "cancel character",
+		"folded": "”"
+	},
+	{
+		"character": "•",
+		"description": "message waiting",
+		"folded": "•"
+	},
+	{
+		"character": "–",
+		"description": "start of guarded area",
+		"folded": "–"
+	},
+	{
+		"character": "—",
+		"description": "end of guarded area",
+		"folded": "—"
+	},
+	{
+		"character": "˜",
+		"description": "start of string",
+		"folded": "˜"
+	},
+	{
+		"character": "™",
+		"description": "&lt;control&gt;",
+		"folded": "™"
+	},
+	{
+		"character": "š",
+		"description": "single character introducer",
+		"folded": "s"
+	},
+	{
+		"character": "›",
+		"description": "control sequence introducer",
+		"folded": "›"
+	},
+	{
+		"character": "œ",
+		"description": "string terminator",
+		"folded": "œ"
+	},
+	{
+		"character": "",
+		"description": "operating system command",
+		"folded": ""
+	},
+	{
+		"character": "ž",
+		"description": "privacy message",
+		"folded": "z"
+	},
+	{
+		"character": "Ÿ",
+		"description": "application program command",
+		"folded": "y"
+	},
+	{
+		"character": " ",
+		"description": "no-break space",
+		"folded": " "
+	},
+	{
+		"character": "¡",
+		"description": "inverted exclamation mark",
+		"folded": "¡"
+	},
+	{
+		"character": "¢",
+		"description": "cent sign",
+		"folded": "¢"
+	},
+	{
+		"character": "£",
+		"description": "pound sign",
+		"folded": "£"
+	},
+	{
+		"character": "¤",
+		"description": "currency sign",
+		"folded": "¤"
+	},
+	{
+		"character": "¥",
+		"description": "yen sign",
+		"folded": "¥"
+	},
+	{
+		"character": "¦",
+		"description": "broken bar",
+		"folded": "¦"
+	},
+	{
+		"character": "§",
+		"description": "section sign",
+		"folded": "§"
+	},
+	{
+		"character": "¨",
+		"description": "diaeresis",
+		"folded": "¨"
+	},
+	{
+		"character": "©",
+		"description": "copyright sign",
+		"folded": "©"
+	},
+	{
+		"character": "ª",
+		"description": "feminine ordinal indicator",
+		"folded": "ª"
+	},
+	{
+		"character": "«",
+		"description": "left-pointing double angle quotation mark",
+		"folded": "«"
+	},
+	{
+		"character": "¬",
+		"description": "not sign",
+		"folded": "¬"
+	},
+	{
+		"character": "­",
+		"description": "soft hyphen",
+		"folded": "­"
+	},
+	{
+		"character": "®",
+		"description": "registered sign",
+		"folded": "®"
+	},
+	{
+		"character": "¯",
+		"description": "macron",
+		"folded": "¯"
+	},
+	{
+		"character": "°",
+		"description": "degree sign",
+		"folded": "°"
+	},
+	{
+		"character": "±",
+		"description": "plus-minus sign",
+		"folded": "±"
+	},
+	{
+		"character": "²",
+		"description": "superscript two",
+		"folded": "²"
+	},
+	{
+		"character": "³",
+		"description": "superscript three",
+		"folded": "³"
+	},
+	{
+		"character": "´",
+		"description": "acute accent",
+		"folded": "´"
+	},
+	{
+		"character": "µ",
+		"description": "micro sign",
+		"folded": "µ"
+	},
+	{
+		"character": "¶",
+		"description": "pilcrow sign",
+		"folded": "¶"
+	},
+	{
+		"character": "·",
+		"description": "middle dot",
+		"folded": "·"
+	},
+	{
+		"character": "¸",
+		"description": "cedilla",
+		"folded": "¸"
+	},
+	{
+		"character": "¹",
+		"description": "superscript one",
+		"folded": "¹"
+	},
+	{
+		"character": "º",
+		"description": "masculine ordinal indicator",
+		"folded": "º"
+	},
+	{
+		"character": "»",
+		"description": "right-pointing double angle quotation mark",
+		"folded": "»"
+	},
+	{
+		"character": "¼",
+		"description": "vulgar fraction one quarter",
+		"folded": "¼"
+	},
+	{
+		"character": "½",
+		"description": "vulgar fraction one half",
+		"folded": "½"
+	},
+	{
+		"character": "¾",
+		"description": "vulgar fraction three quarters",
+		"folded": "¾"
+	},
+	{
+		"character": "¿",
+		"description": "inverted question mark",
+		"folded": "¿"
+	},
+	{
+		"character": "À",
+		"description": "latin capital letter a with grave",
+		"folded": "a"
+	},
+	{
+		"character": "Á",
+		"description": "latin capital letter a with acute",
+		"folded": "a"
+	},
+	{
+		"character": "Â",
+		"description": "latin capital letter a with circumflex",
+		"folded": "a"
+	},
+	{
+		"character": "Ã",
+		"description": "latin capital letter a with tilde",
+		"folded": "a"
+	},
+	{
+		"character": "Ä",
+		"description": "latin capital letter a with diaeresis",
+		"folded": "a"
+	},
+	{
+		"character": "Å",
+		"description": "latin capital letter a with ring above",
+		"folded": "a"
+	},
+	{
+		"character": "Æ",
+		"description": "latin capital letter ae",
+		"folded": "æ"
+	},
+	{
+		"character": "Ç",
+		"description": "latin capital letter c with cedilla",
+		"folded": "c"
+	},
+	{
+		"character": "È",
+		"description": "latin capital letter e with grave",
+		"folded": "e"
+	},
+	{
+		"character": "É",
+		"description": "latin capital letter e with acute",
+		"folded": "e"
+	},
+	{
+		"character": "Ê",
+		"description": "latin capital letter e with circumflex",
+		"folded": "e"
+	},
+	{
+		"character": "Ë",
+		"description": "latin capital letter e with diaeresis",
+		"folded": "e"
+	},
+	{
+		"character": "Ì",
+		"description": "latin capital letter i with grave",
+		"folded": "i"
+	},
+	{
+		"character": "Í",
+		"description": "latin capital letter i with acute",
+		"folded": "i"
+	},
+	{
+		"character": "Î",
+		"description": "latin capital letter i with circumflex",
+		"folded": "i"
+	},
+	{
+		"character": "Ï",
+		"description": "latin capital letter i with diaeresis",
+		"folded": "i"
+	},
+	{
+		"character": "Ð",
+		"description": "latin capital letter eth",
+		"folded": "ð"
+	},
+	{
+		"character": "Ñ",
+		"description": "latin capital letter n with tilde",
+		"folded": "n"
+	},
+	{
+		"character": "Ò",
+		"description": "latin capital letter o with grave",
+		"folded": "o"
+	},
+	{
+		"character": "Ó",
+		"description": "latin capital letter o with acute",
+		"folded": "o"
+	},
+	{
+		"character": "Ô",
+		"description": "latin capital letter o with circumflex",
+		"folded": "o"
+	},
+	{
+		"character": "Õ",
+		"description": "latin capital letter o with tilde",
+		"folded": "o"
+	},
+	{
+		"character": "Ö",
+		"description": "latin capital letter o with diaeresis",
+		"folded": "o"
+	},
+	{
+		"character": "×",
+		"description": "multiplication sign",
+		"folded": "×"
+	},
+	{
+		"character": "Ø",
+		"description": "latin capital letter o with stroke",
+		"folded": "o"
+	},
+	{
+		"character": "Ù",
+		"description": "latin capital letter u with grave",
+		"folded": "u"
+	},
+	{
+		"character": "Ú",
+		"description": "latin capital letter u with acute",
+		"folded": "u"
+	},
+	{
+		"character": "Û",
+		"description": "latin capital letter u with circumflex",
+		"folded": "u"
+	},
+	{
+		"character": "Ü",
+		"description": "latin capital letter u with diaeresis",
+		"folded": "u"
+	},
+	{
+		"character": "Ý",
+		"description": "latin capital letter y with acute",
+		"folded": "y"
+	},
+	{
+		"character": "Þ",
+		"description": "latin capital letter thorn",
+		"folded": "t"
+	},
+	{
+		"character": "ß",
+		"description": "latin small letter sharp s",
+		"folded": "s"
+	},
+	{
+		"character": "à",
+		"description": "latin small letter a with grave",
+		"folded": "a"
+	},
+	{
+		"character": "á",
+		"description": "latin small letter a with acute",
+		"folded": "a"
+	},
+	{
+		"character": "â",
+		"description": "latin small letter a with circumflex",
+		"folded": "a"
+	},
+	{
+		"character": "ã",
+		"description": "latin small letter a with tilde",
+		"folded": "a"
+	},
+	{
+		"character": "ä",
+		"description": "latin small letter a with diaeresis",
+		"folded": "a"
+	},
+	{
+		"character": "å",
+		"description": "latin small letter a with ring above",
+		"folded": "a"
+	},
+	{
+		"character": "æ",
+		"description": "latin small letter ae",
+		"folded": "æ"
+	},
+	{
+		"character": "ç",
+		"description": "latin small letter c with cedilla",
+		"folded": "c"
+	},
+	{
+		"character": "è",
+		"description": "latin small letter e with grave",
+		"folded": "e"
+	},
+	{
+		"character": "é",
+		"description": "latin small letter e with acute",
+		"folded": "e"
+	},
+	{
+		"character": "ê",
+		"description": "latin small letter e with circumflex",
+		"folded": "e"
+	},
+	{
+		"character": "ë",
+		"description": "latin small letter e with diaeresis",
+		"folded": "e"
+	},
+	{
+		"character": "ì",
+		"description": "latin small letter i with grave",
+		"folded": "i"
+	},
+	{
+		"character": "í",
+		"description": "latin small letter i with acute",
+		"folded": "i"
+	},
+	{
+		"character": "î",
+		"description": "latin small letter i with circumflex",
+		"folded": "i"
+	},
+	{
+		"character": "ï",
+		"description": "latin small letter i with diaeresis",
+		"folded": "i"
+	},
+	{
+		"character": "ð",
+		"description": "latin small letter eth",
+		"folded": "d"
+	},
+	{
+		"character": "ñ",
+		"description": "latin small letter n with tilde",
+		"folded": "n"
+	},
+	{
+		"character": "ò",
+		"description": "latin small letter o with grave",
+		"folded": "o"
+	},
+	{
+		"character": "ó",
+		"description": "latin small letter o with acute",
+		"folded": "o"
+	},
+	{
+		"character": "ô",
+		"description": "latin small letter o with circumflex",
+		"folded": "o"
+	},
+	{
+		"character": "õ",
+		"description": "latin small letter o with tilde",
+		"folded": "o"
+	},
+	{
+		"character": "ö",
+		"description": "latin small letter o with diaeresis",
+		"folded": "o"
+	},
+	{
+		"character": "÷",
+		"description": "division sign",
+		"folded": "÷"
+	},
+	{
+		"character": "ø",
+		"description": "latin small letter o with stroke",
+		"folded": "o"
+	},
+	{
+		"character": "ù",
+		"description": "latin small letter u with grave",
+		"folded": "u"
+	},
+	{
+		"character": "ú",
+		"description": "latin small letter u with acute",
+		"folded": "u"
+	},
+	{
+		"character": "û",
+		"description": "latin small letter u with circumflex",
+		"folded": "u"
+	},
+	{
+		"character": "ü",
+		"description": "latin small letter u with diaeresis",
+		"folded": "u"
+	},
+	{
+		"character": "ý",
+		"description": "latin small letter y with acute",
+		"folded": "y"
+	},
+	{
+		"character": "þ",
+		"description": "latin small letter thorn",
+		"folded": "t"
+	},
+	{
+		"character": "ÿ",
+		"description": "latin small letter y with diaeresis",
+		"folded": "y"
+	},
+	{
+		"character": "Ā",
+		"description": "latin capital letter a with macron",
+		"folded": "a"
+	},
+	{
+		"character": "ā",
+		"description": "latin small letter a with macron",
+		"folded": "a"
+	},
+	{
+		"character": "Ă",
+		"description": "latin capital letter a with breve",
+		"folded": "a"
+	},
+	{
+		"character": "ă",
+		"description": "latin small letter a with breve",
+		"folded": "a"
+	},
+	{
+		"character": "Ą",
+		"description": "latin capital letter a with ogonek",
+		"folded": "a"
+	},
+	{
+		"character": "ą",
+		"description": "latin small letter a with ogonek",
+		"folded": "a"
+	},
+	{
+		"character": "Ć",
+		"description": "latin capital letter c with acute",
+		"folded": "c"
+	},
+	{
+		"character": "ć",
+		"description": "latin small letter c with acute",
+		"folded": "c"
+	},
+	{
+		"character": "Ĉ",
+		"description": "latin capital letter c with circumflex",
+		"folded": "c"
+	},
+	{
+		"character": "ĉ",
+		"description": "latin small letter c with circumflex",
+		"folded": "c"
+	},
+	{
+		"character": "Ċ",
+		"description": "latin capital letter c with dot above",
+		"folded": "c"
+	},
+	{
+		"character": "ċ",
+		"description": "latin small letter c with dot above",
+		"folded": "c"
+	},
+	{
+		"character": "Č",
+		"description": "latin capital letter c with caron",
+		"folded": "c"
+	},
+	{
+		"character": "č",
+		"description": "latin small letter c with caron",
+		"folded": "c"
+	},
+	{
+		"character": "Ď",
+		"description": "latin capital letter d with caron",
+		"folded": "d"
+	},
+	{
+		"character": "ď",
+		"description": "latin small letter d with caron",
+		"folded": "d"
+	},
+	{
+		"character": "Đ",
+		"description": "latin capital letter d with stroke",
+		"folded": "d"
+	},
+	{
+		"character": "đ",
+		"description": "latin small letter d with stroke",
+		"folded": "d"
+	},
+	{
+		"character": "Ē",
+		"description": "latin capital letter e with macron",
+		"folded": "e"
+	},
+	{
+		"character": "ē",
+		"description": "latin small letter e with macron",
+		"folded": "e"
+	},
+	{
+		"character": "Ĕ",
+		"description": "latin capital letter e with breve",
+		"folded": "e"
+	},
+	{
+		"character": "ĕ",
+		"description": "latin small letter e with breve",
+		"folded": "e"
+	},
+	{
+		"character": "Ė",
+		"description": "latin capital letter e with dot above",
+		"folded": "e"
+	},
+	{
+		"character": "ė",
+		"description": "latin small letter e with dot above",
+		"folded": "e"
+	},
+	{
+		"character": "Ę",
+		"description": "latin capital letter e with ogonek",
+		"folded": "e"
+	},
+	{
+		"character": "ę",
+		"description": "latin small letter e with ogonek",
+		"folded": "e"
+	},
+	{
+		"character": "Ě",
+		"description": "latin capital letter e with caron",
+		"folded": "e"
+	},
+	{
+		"character": "ě",
+		"description": "latin small letter e with caron",
+		"folded": "e"
+	},
+	{
+		"character": "Ĝ",
+		"description": "latin capital letter g with circumflex",
+		"folded": "g"
+	},
+	{
+		"character": "ĝ",
+		"description": "latin small letter g with circumflex",
+		"folded": "g"
+	},
+	{
+		"character": "Ğ",
+		"description": "latin capital letter g with breve",
+		"folded": "g"
+	},
+	{
+		"character": "ğ",
+		"description": "latin small letter g with breve",
+		"folded": "g"
+	},
+	{
+		"character": "Ġ",
+		"description": "latin capital letter g with dot above",
+		"folded": "g"
+	},
+	{
+		"character": "ġ",
+		"description": "latin small letter g with dot above",
+		"folded": "g"
+	},
+	{
+		"character": "Ģ",
+		"description": "latin capital letter g with cedilla",
+		"folded": "g"
+	},
+	{
+		"character": "ģ",
+		"description": "latin small letter g with cedilla",
+		"folded": "g"
+	},
+	{
+		"character": "Ĥ",
+		"description": "latin capital letter h with circumflex",
+		"folded": "h"
+	},
+	{
+		"character": "ĥ",
+		"description": "latin small letter h with circumflex",
+		"folded": "h"
+	},
+	{
+		"character": "Ħ",
+		"description": "latin capital letter h with stroke",
+		"folded": "h"
+	},
+	{
+		"character": "ħ",
+		"description": "latin small letter h with stroke",
+		"folded": "h"
+	},
+	{
+		"character": "Ĩ",
+		"description": "latin capital letter i with tilde",
+		"folded": "i"
+	},
+	{
+		"character": "ĩ",
+		"description": "latin small letter i with tilde",
+		"folded": "i"
+	},
+	{
+		"character": "Ī",
+		"description": "latin capital letter i with macron",
+		"folded": "i"
+	},
+	{
+		"character": "ī",
+		"description": "latin small letter i with macron",
+		"folded": "i"
+	},
+	{
+		"character": "Ĭ",
+		"description": "latin capital letter i with breve",
+		"folded": "i"
+	},
+	{
+		"character": "ĭ",
+		"description": "latin small letter i with breve",
+		"folded": "i"
+	},
+	{
+		"character": "Į",
+		"description": "latin capital letter i with ogonek",
+		"folded": "i"
+	},
+	{
+		"character": "į",
+		"description": "latin small letter i with ogonek",
+		"folded": "i"
+	},
+	{
+		"character": "İ",
+		"description": "latin capital letter i with dot above",
+		"folded": "i"
+	},
+	{
+		"character": "ı",
+		"description": "latin small letter dotless i",
+		"folded": "i"
+	},
+	{
+		"character": "Ĳ",
+		"description": "latin capital ligature ij",
+		"folded": "ĳ"
+	},
+	{
+		"character": "ĳ",
+		"description": "latin small ligature ij",
+		"folded": "ĳ"
+	},
+	{
+		"character": "Ĵ",
+		"description": "latin capital letter j with circumflex",
+		"folded": "j"
+	},
+	{
+		"character": "ĵ",
+		"description": "latin small letter j with circumflex",
+		"folded": "j"
+	},
+	{
+		"character": "Ķ",
+		"description": "latin capital letter k with cedilla",
+		"folded": "k"
+	},
+	{
+		"character": "ķ",
+		"description": "latin small letter k with cedilla",
+		"folded": "k"
+	},
+	{
+		"character": "ĸ",
+		"description": "latin small letter kra",
+		"folded": "ĸ"
+	},
+	{
+		"character": "Ĺ",
+		"description": "latin capital letter l with acute",
+		"folded": "a"
+	},
+	{
+		"character": "ĺ",
+		"description": "latin small letter l with acute",
+		"folded": "l"
+	},
+	{
+		"character": "Ļ",
+		"description": "latin capital letter l with cedilla",
+		"folded": "l"
+	},
+	{
+		"character": "ļ",
+		"description": "latin small letter l with cedilla",
+		"folded": "l"
+	},
+	{
+		"character": "Ľ",
+		"description": "latin capital letter l with caron",
+		"folded": "l"
+	},
+	{
+		"character": "ľ",
+		"description": "latin small letter l with caron",
+		"folded": "l"
+	},
+	{
+		"character": "Ŀ",
+		"description": "latin capital letter l with middle dot",
+		"folded": "l"
+	},
+	{
+		"character": "ŀ",
+		"description": "latin small letter l with middle dot",
+		"folded": "l"
+	},
+	{
+		"character": "Ł",
+		"description": "latin capital letter l with stroke",
+		"folded": "l"
+	},
+	{
+		"character": "ł",
+		"description": "latin small letter l with stroke",
+		"folded": "l"
+	},
+	{
+		"character": "Ń",
+		"description": "latin capital letter n with acute",
+		"folded": "n"
+	},
+	{
+		"character": "ń",
+		"description": "latin small letter n with acute",
+		"folded": "n"
+	},
+	{
+		"character": "Ņ",
+		"description": "latin capital letter n with cedilla",
+		"folded": "n"
+	},
+	{
+		"character": "ņ",
+		"description": "latin small letter n with cedilla",
+		"folded": "n"
+	},
+	{
+		"character": "Ň",
+		"description": "latin capital letter n with caron",
+		"folded": "n"
+	},
+	{
+		"character": "ň",
+		"description": "latin small letter n with caron",
+		"folded": "n"
+	},
+	{
+		"character": "ŉ",
+		"description": "latin small letter n preceded by apostrophe",
+		"folded": "ŉ"
+	},
+	{
+		"character": "Ŋ",
+		"description": "latin capital letter eng",
+		"folded": "ŋ"
+	},
+	{
+		"character": "ŋ",
+		"description": "latin small letter eng",
+		"folded": "ŋ"
+	},
+	{
+		"character": "Ō",
+		"description": "latin capital letter o with macron",
+		"folded": "o"
+	},
+	{
+		"character": "ō",
+		"description": "latin small letter o with macron",
+		"folded": "o"
+	},
+	{
+		"character": "Ŏ",
+		"description": "latin capital letter o with breve",
+		"folded": "o"
+	},
+	{
+		"character": "ŏ",
+		"description": "latin small letter o with breve",
+		"folded": "o"
+	},
+	{
+		"character": "Ő",
+		"description": "latin capital letter o with double acute",
+		"folded": "o"
+	},
+	{
+		"character": "ő",
+		"description": "latin small letter o with double acute",
+		"folded": "o"
+	},
+	{
+		"character": "Œ",
+		"description": "latin capital ligature oe",
+		"folded": "œ"
+	},
+	{
+		"character": "œ",
+		"description": "latin small ligature oe",
+		"folded": "œ"
+	},
+	{
+		"character": "Ŕ",
+		"description": "latin capital letter r with acute",
+		"folded": "r"
+	},
+	{
+		"character": "ŕ",
+		"description": "latin small letter r with acute",
+		"folded": "r"
+	},
+	{
+		"character": "Ŗ",
+		"description": "latin capital letter r with cedilla",
+		"folded": "r"
+	},
+	{
+		"character": "ŗ",
+		"description": "latin small letter r with cedilla",
+		"folded": "r"
+	},
+	{
+		"character": "Ř",
+		"description": "latin capital letter r with caron",
+		"folded": "r"
+	},
+	{
+		"character": "ř",
+		"description": "latin small letter r with caron",
+		"folded": "r"
+	},
+	{
+		"character": "Ś",
+		"description": "latin capital letter s with acute",
+		"folded": "s"
+	},
+	{
+		"character": "ś",
+		"description": "latin small letter s with acute",
+		"folded": "s"
+	},
+	{
+		"character": "Ŝ",
+		"description": "latin capital letter s with circumflex",
+		"folded": "s"
+	},
+	{
+		"character": "ŝ",
+		"description": "latin small letter s with circumflex",
+		"folded": "s"
+	},
+	{
+		"character": "Ş",
+		"description": "latin capital letter s with cedilla",
+		"folded": "s"
+	},
+	{
+		"character": "ş",
+		"description": "latin small letter s with cedilla",
+		"folded": "s"
+	},
+	{
+		"character": "Š",
+		"description": "latin capital letter s with caron",
+		"folded": "s"
+	},
+	{
+		"character": "š",
+		"description": "latin small letter s with caron",
+		"folded": "s"
+	},
+	{
+		"character": "Ţ",
+		"description": "latin capital letter t with cedilla",
+		"folded": "t"
+	},
+	{
+		"character": "ţ",
+		"description": "latin small letter t with cedilla",
+		"folded": "t"
+	},
+	{
+		"character": "Ť",
+		"description": "latin capital letter t with caron",
+		"folded": "t"
+	},
+	{
+		"character": "ť",
+		"description": "latin small letter t with caron",
+		"folded": "t"
+	},
+	{
+		"character": "Ŧ",
+		"description": "latin capital letter t with stroke",
+		"folded": "t"
+	},
+	{
+		"character": "ŧ",
+		"description": "latin small letter t with stroke",
+		"folded": "t"
+	},
+	{
+		"character": "Ũ",
+		"description": "latin capital letter u with tilde",
+		"folded": "u"
+	},
+	{
+		"character": "ũ",
+		"description": "latin small letter u with tilde",
+		"folded": "u"
+	},
+	{
+		"character": "Ū",
+		"description": "latin capital letter u with macron",
+		"folded": "u"
+	},
+	{
+		"character": "ū",
+		"description": "latin small letter u with macron",
+		"folded": "u"
+	},
+	{
+		"character": "Ŭ",
+		"description": "latin capital letter u with breve",
+		"folded": "u"
+	},
+	{
+		"character": "ŭ",
+		"description": "latin small letter u with breve",
+		"folded": "u"
+	},
+	{
+		"character": "Ů",
+		"description": "latin capital letter u with ring above",
+		"folded": "u"
+	},
+	{
+		"character": "ů",
+		"description": "latin small letter u with ring above",
+		"folded": "u"
+	},
+	{
+		"character": "Ű",
+		"description": "latin capital letter u with double acute",
+		"folded": "u"
+	},
+	{
+		"character": "ű",
+		"description": "latin small letter u with double acute",
+		"folded": "u"
+	},
+	{
+		"character": "Ų",
+		"description": "latin capital letter u with ogonek",
+		"folded": "u"
+	},
+	{
+		"character": "ų",
+		"description": "latin small letter u with ogonek",
+		"folded": "u"
+	},
+	{
+		"character": "Ŵ",
+		"description": "latin capital letter w with circumflex",
+		"folded": "w"
+	},
+	{
+		"character": "ŵ",
+		"description": "latin small letter w with circumflex",
+		"folded": "w"
+	},
+	{
+		"character": "Ŷ",
+		"description": "latin capital letter y with circumflex",
+		"folded": "y"
+	},
+	{
+		"character": "ŷ",
+		"description": "latin small letter y with circumflex",
+		"folded": "y"
+	},
+	{
+		"character": "Ÿ",
+		"description": "latin capital letter y with diaeresis",
+		"folded": "y"
+	},
+	{
+		"character": "Ź",
+		"description": "latin capital letter z with acute",
+		"folded": "z"
+	},
+	{
+		"character": "ź",
+		"description": "latin small letter z with acute",
+		"folded": "z"
+	},
+	{
+		"character": "Ż",
+		"description": "latin capital letter z with dot above",
+		"folded": "z"
+	},
+	{
+		"character": "ż",
+		"description": "latin small letter z with dot above",
+		"folded": "z"
+	},
+	{
+		"character": "Ž",
+		"description": "latin capital letter z with caron",
+		"folded": "z"
+	},
+	{
+		"character": "ž",
+		"description": "latin small letter z with caron",
+		"folded": "z"
+	},
+	{
+		"character": "ſ",
+		"description": "latin small letter long s",
+		"folded": "ſ"
+	},
+	{
+		"character": "ƀ",
+		"description": "latin small letter b with stroke",
+		"folded": "b"
+	},
+	{
+		"character": "Ɓ",
+		"description": "latin capital letter b with hook",
+		"folded": "b"
+	},
+	{
+		"character": "Ƃ",
+		"description": "latin capital letter b with topbar",
+		"folded": "b"
+	},
+	{
+		"character": "ƃ",
+		"description": "latin small letter b with topbar",
+		"folded": "b"
+	},
+	{
+		"character": "Ƅ",
+		"description": "latin capital letter tone six",
+		"folded": "ƅ"
+	},
+	{
+		"character": "ƅ",
+		"description": "latin small letter tone six",
+		"folded": "ƅ"
+	},
+	{
+		"character": "Ɔ",
+		"description": "latin capital letter open o",
+		"folded": "ɔ"
+	},
+	{
+		"character": "Ƈ",
+		"description": "latin capital letter c with hook",
+		"folded": "c"
+	},
+	{
+		"character": "ƈ",
+		"description": "latin small letter c with hook",
+		"folded": "c"
+	},
+	{
+		"character": "Ɖ",
+		"description": "latin capital letter african d",
+		"folded": "d"
+	},
+	{
+		"character": "Ɗ",
+		"description": "latin capital letter d with hook",
+		"folded": "d"
+	},
+	{
+		"character": "Ƌ",
+		"description": "latin capital letter d with topbar",
+		"folded": "d"
+	},
+	{
+		"character": "ƌ",
+		"description": "latin small letter d with topbar",
+		"folded": "d"
+	},
+	{
+		"character": "ƍ",
+		"description": "latin small letter turned delta",
+		"folded": "ƍ"
+	},
+	{
+		"character": "Ǝ",
+		"description": "latin capital letter reversed e",
+		"folded": "e"
+	},
+	{
+		"character": "Ə",
+		"description": "latin capital letter schwa",
+		"folded": "e"
+	},
+	{
+		"character": "Ɛ",
+		"description": "latin capital letter open e",
+		"folded": "ɛ"
+	},
+	{
+		"character": "Ƒ",
+		"description": "latin capital letter f with hook",
+		"folded": "f"
+	},
+	{
+		"character": "ƒ",
+		"description": "latin small letter f with hook",
+		"folded": "f"
+	},
+	{
+		"character": "Ɠ",
+		"description": "latin capital letter g with hook",
+		"folded": "g"
+	},
+	{
+		"character": "Ɣ",
+		"description": "latin capital letter gamma",
+		"folded": "ɣ"
+	},
+	{
+		"character": "ƕ",
+		"description": "latin small letter hv",
+		"folded": "ƕ"
+	},
+	{
+		"character": "Ɩ",
+		"description": "latin capital letter iota",
+		"folded": "ɩ"
+	},
+	{
+		"character": "Ɨ",
+		"description": "latin capital letter i with stroke",
+		"folded": "i"
+	},
+	{
+		"character": "Ƙ",
+		"description": "latin capital letter k with hook",
+		"folded": "k"
+	},
+	{
+		"character": "ƙ",
+		"description": "latin small letter k with hook",
+		"folded": "k"
+	},
+	{
+		"character": "ƚ",
+		"description": "latin small letter l with bar",
+		"folded": "l"
+	},
+	{
+		"character": "ƛ",
+		"description": "latin small letter lambda with stroke",
+		"folded": "ƛ"
+	},
+	{
+		"character": "Ɯ",
+		"description": "latin capital letter turned m",
+		"folded": "ɯ"
+	},
+	{
+		"character": "Ɲ",
+		"description": "latin capital letter n with left hook",
+		"folded": "n"
+	},
+	{
+		"character": "ƞ",
+		"description": "latin small letter n with long right leg",
+		"folded": "n"
+	},
+	{
+		"character": "Ɵ",
+		"description": "latin capital letter o with middle tilde",
+		"folded": "o"
+	},
+	{
+		"character": "Ơ",
+		"description": "latin capital letter o with horn",
+		"folded": "o"
+	},
+	{
+		"character": "ơ",
+		"description": "latin small letter o with horn",
+		"folded": "o"
+	},
+	{
+		"character": "Ƣ",
+		"description": "latin capital letter oi",
+		"folded": "ƣ"
+	},
+	{
+		"character": "ƣ",
+		"description": "latin small letter oi",
+		"folded": "ƣ"
+	},
+	{
+		"character": "Ƥ",
+		"description": "latin capital letter p with hook",
+		"folded": "p"
+	},
+	{
+		"character": "ƥ",
+		"description": "latin small letter p with hook",
+		"folded": "p"
+	},
+	{
+		"character": "Ʀ",
+		"description": "latin letter yr",
+		"folded": "ʀ"
+	},
+	{
+		"character": "Ƨ",
+		"description": "latin capital letter tone two",
+		"folded": "ƨ"
+	},
+	{
+		"character": "ƨ",
+		"description": "latin small letter tone two",
+		"folded": "ƨ"
+	},
+	{
+		"character": "Ʃ",
+		"description": "latin capital letter esh",
+		"folded": "ʃ"
+	},
+	{
+		"character": "ƪ",
+		"description": "latin letter reversed esh loop",
+		"folded": "ƪ"
+	},
+	{
+		"character": "ƫ",
+		"description": "latin small letter t with palatal hook",
+		"folded": "t"
+	},
+	{
+		"character": "Ƭ",
+		"description": "latin capital letter t with hook",
+		"folded": "t"
+	},
+	{
+		"character": "ƭ",
+		"description": "latin small letter t with hook",
+		"folded": "t"
+	},
+	{
+		"character": "Ʈ",
+		"description": "latin capital letter t with retroflex hook",
+		"folded": "t"
+	},
+	{
+		"character": "Ư",
+		"description": "latin capital letter u with horn",
+		"folded": "u"
+	},
+	{
+		"character": "ư",
+		"description": "latin small letter u with horn",
+		"folded": "u"
+	},
+	{
+		"character": "Ʊ",
+		"description": "latin capital letter upsilon",
+		"folded": "ʊ"
+	},
+	{
+		"character": "Ʋ",
+		"description": "latin capital letter v with hook",
+		"folded": "v"
+	},
+	{
+		"character": "Ƴ",
+		"description": "latin capital letter y with hook",
+		"folded": "y"
+	},
+	{
+		"character": "ƴ",
+		"description": "latin small letter y with hook",
+		"folded": "y"
+	},
+	{
+		"character": "Ƶ",
+		"description": "latin capital letter z with stroke",
+		"folded": "z"
+	},
+	{
+		"character": "ƶ",
+		"description": "latin small letter z with stroke",
+		"folded": "z"
+	},
+	{
+		"character": "Ʒ",
+		"description": "latin capital letter ezh",
+		"folded": "ʒ"
+	},
+	{
+		"character": "Ƹ",
+		"description": "latin capital letter ezh reversed",
+		"folded": "ƹ"
+	},
+	{
+		"character": "ƹ",
+		"description": "latin small letter ezh reversed",
+		"folded": "ƹ"
+	},
+	{
+		"character": "ƺ",
+		"description": "latin small letter ezh with tail",
+		"folded": "z"
+	},
+	{
+		"character": "ƻ",
+		"description": "latin letter two with stroke",
+		"folded": "ƻ"
+	},
+	{
+		"character": "Ƽ",
+		"description": "latin capital letter tone five",
+		"folded": "ƽ"
+	},
+	{
+		"character": "ƽ",
+		"description": "latin small letter tone five",
+		"folded": "ƽ"
+	},
+	{
+		"character": "ƾ",
+		"description": "latin letter inverted glottal stop with stroke",
+		"folded": "ƾ"
+	},
+	{
+		"character": "ƿ",
+		"description": "latin letter wynn",
+		"folded": "ƿ"
+	},
+	{
+		"character": "ǀ",
+		"description": "latin letter dental click",
+		"folded": "ǀ"
+	},
+	{
+		"character": "ǁ",
+		"description": "latin letter lateral click",
+		"folded": "ǁ"
+	},
+	{
+		"character": "ǂ",
+		"description": "latin letter alveolar click",
+		"folded": "ǂ"
+	},
+	{
+		"character": "ǃ",
+		"description": "latin letter retroflex click",
+		"folded": "ǃ"
+	},
+	{
+		"character": "Ǆ",
+		"description": "latin capital letter dz with caron",
+		"folded": "ǆ"
+	},
+	{
+		"character": "ǅ",
+		"description": "latin capital letter d with small letter z with caron",
+		"folded": "ǆ"
+	},
+	{
+		"character": "ǆ",
+		"description": "latin small letter dz with caron",
+		"folded": "ǆ"
+	},
+	{
+		"character": "Ǉ",
+		"description": "latin capital letter lj",
+		"folded": "ǉ"
+	},
+	{
+		"character": "ǈ",
+		"description": "latin capital letter l with small letter j",
+		"folded": "ǉ"
+	},
+	{
+		"character": "ǉ",
+		"description": "latin small letter lj",
+		"folded": "ǉ"
+	},
+	{
+		"character": "Ǌ",
+		"description": "latin capital letter nj",
+		"folded": "ǌ"
+	},
+	{
+		"character": "ǋ",
+		"description": "latin capital letter n with small letter j",
+		"folded": "ǌ"
+	},
+	{
+		"character": "ǌ",
+		"description": "latin small letter nj",
+		"folded": "ǌ"
+	},
+	{
+		"character": "Ǎ",
+		"description": "latin capital letter a with caron",
+		"folded": "a"
+	},
+	{
+		"character": "ǎ",
+		"description": "latin small letter a with caron",
+		"folded": "a"
+	},
+	{
+		"character": "Ǐ",
+		"description": "latin capital letter i with caron",
+		"folded": "i"
+	},
+	{
+		"character": "ǐ",
+		"description": "latin small letter i with caron",
+		"folded": "i"
+	},
+	{
+		"character": "Ǒ",
+		"description": "latin capital letter o with caron",
+		"folded": "o"
+	},
+	{
+		"character": "ǒ",
+		"description": "latin small letter o with caron",
+		"folded": "o"
+	},
+	{
+		"character": "Ǔ",
+		"description": "latin capital letter u with caron",
+		"folded": "u"
+	},
+	{
+		"character": "ǔ",
+		"description": "latin small letter u with caron",
+		"folded": "u"
+	},
+	{
+		"character": "Ǖ",
+		"description": "latin capital letter u with diaeresis and macron",
+		"folded": "u"
+	},
+	{
+		"character": "ǖ",
+		"description": "latin small letter u with diaeresis and macron",
+		"folded": "u"
+	},
+	{
+		"character": "Ǘ",
+		"description": "latin capital letter u with diaeresis and acute",
+		"folded": "u"
+	},
+	{
+		"character": "ǘ",
+		"description": "latin small letter u with diaeresis and acute",
+		"folded": "u"
+	},
+	{
+		"character": "Ǚ",
+		"description": "latin capital letter u with diaeresis and caron",
+		"folded": "u"
+	},
+	{
+		"character": "ǚ",
+		"description": "latin small letter u with diaeresis and caron",
+		"folded": "u"
+	},
+	{
+		"character": "Ǜ",
+		"description": "latin capital letter u with diaeresis and grave",
+		"folded": "u"
+	},
+	{
+		"character": "ǜ",
+		"description": "latin small letter u with diaeresis and grave",
+		"folded": "u"
+	},
+	{
+		"character": "ǝ",
+		"description": "latin small letter turned e",
+		"folded": "e"
+	},
+	{
+		"character": "Ǟ",
+		"description": "latin capital letter a with diaeresis and macron",
+		"folded": "a"
+	},
+	{
+		"character": "ǟ",
+		"description": "latin small letter a with diaeresis and macron",
+		"folded": "a"
+	},
+	{
+		"character": "Ǡ",
+		"description": "latin capital letter a with dot above and macron",
+		"folded": "a"
+	},
+	{
+		"character": "ǡ",
+		"description": "latin small letter a with dot above and macron",
+		"folded": "a"
+	},
+	{
+		"character": "Ǣ",
+		"description": "latin capital letter ae with macron",
+		"folded": "a"
+	},
+	{
+		"character": "ǣ",
+		"description": "latin small letter ae with macron",
+		"folded": "a"
+	},
+	{
+		"character": "Ǥ",
+		"description": "latin capital letter g with stroke",
+		"folded": "g"
+	},
+	{
+		"character": "ǥ",
+		"description": "latin small letter g with stroke",
+		"folded": "g"
+	},
+	{
+		"character": "Ǧ",
+		"description": "latin capital letter g with caron",
+		"folded": "g"
+	},
+	{
+		"character": "ǧ",
+		"description": "latin small letter g with caron",
+		"folded": "g"
+	},
+	{
+		"character": "Ǩ",
+		"description": "latin capital letter k with caron",
+		"folded": "k"
+	},
+	{
+		"character": "ǩ",
+		"description": "latin small letter k with caron",
+		"folded": "k"
+	},
+	{
+		"character": "Ǫ",
+		"description": "latin capital letter o with ogonek",
+		"folded": "o"
+	},
+	{
+		"character": "ǫ",
+		"description": "latin small letter o with ogonek",
+		"folded": "o"
+	},
+	{
+		"character": "Ǭ",
+		"description": "latin capital letter o with ogonek and macron",
+		"folded": "o"
+	},
+	{
+		"character": "ǭ",
+		"description": "latin small letter o with ogonek and macron",
+		"folded": "o"
+	},
+	{
+		"character": "Ǯ",
+		"description": "latin capital letter ezh with caron",
+		"folded": "z"
+	},
+	{
+		"character": "ǯ",
+		"description": "latin small letter ezh with caron",
+		"folded": "z"
+	},
+	{
+		"character": "ǰ",
+		"description": "latin small letter j with caron",
+		"folded": "j"
+	},
+	{
+		"character": "Ǳ",
+		"description": "latin capital letter dz",
+		"folded": "ǳ"
+	},
+	{
+		"character": "ǲ",
+		"description": "latin capital letter d with small letter z",
+		"folded": "ǳ"
+	},
+	{
+		"character": "ǳ",
+		"description": "latin small letter dz",
+		"folded": "ǳ"
+	},
+	{
+		"character": "Ǵ",
+		"description": "latin capital letter g with acute",
+		"folded": "g"
+	},
+	{
+		"character": "ǵ",
+		"description": "latin small letter g with acute",
+		"folded": "g"
+	},
+	{
+		"character": "Ƕ",
+		"description": "latin capital letter hwair",
+		"folded": "ƕ"
+	},
+	{
+		"character": "Ƿ",
+		"description": "latin capital letter wynn",
+		"folded": "ƿ"
+	},
+	{
+		"character": "Ǹ",
+		"description": "latin capital letter n with grave",
+		"folded": "n"
+	},
+	{
+		"character": "ǹ",
+		"description": "latin small letter n with grave",
+		"folded": "n"
+	},
+	{
+		"character": "Ǻ",
+		"description": "latin capital letter a with ring above and acute",
+		"folded": "a"
+	},
+	{
+		"character": "ǻ",
+		"description": "latin small letter a with ring above and acute",
+		"folded": "a"
+	},
+	{
+		"character": "Ǽ",
+		"description": "latin capital letter ae with acute",
+		"folded": "a"
+	},
+	{
+		"character": "ǽ",
+		"description": "latin small letter ae with acute",
+		"folded": "a"
+	},
+	{
+		"character": "Ǿ",
+		"description": "latin capital letter o with stroke and acute",
+		"folded": "o"
+	},
+	{
+		"character": "ǿ",
+		"description": "latin small letter o with stroke and acute",
+		"folded": "o"
+	},
+	{
+		"character": "Ȁ",
+		"description": "latin capital letter a with double grave",
+		"folded": "a"
+	},
+	{
+		"character": "ȁ",
+		"description": "latin small letter a with double grave",
+		"folded": "a"
+	},
+	{
+		"character": "Ȃ",
+		"description": "latin capital letter a with inverted breve",
+		"folded": "a"
+	},
+	{
+		"character": "ȃ",
+		"description": "latin small letter a with inverted breve",
+		"folded": "a"
+	},
+	{
+		"character": "Ȅ",
+		"description": "latin capital letter e with double grave",
+		"folded": "e"
+	},
+	{
+		"character": "ȅ",
+		"description": "latin small letter e with double grave",
+		"folded": "e"
+	},
+	{
+		"character": "Ȇ",
+		"description": "latin capital letter e with inverted breve",
+		"folded": "e"
+	},
+	{
+		"character": "ȇ",
+		"description": "latin small letter e with inverted breve",
+		"folded": "e"
+	},
+	{
+		"character": "Ȉ",
+		"description": "latin capital letter i with double grave",
+		"folded": "i"
+	},
+	{
+		"character": "ȉ",
+		"description": "latin small letter i with double grave",
+		"folded": "i"
+	},
+	{
+		"character": "Ȋ",
+		"description": "latin capital letter i with inverted breve",
+		"folded": "i"
+	},
+	{
+		"character": "ȋ",
+		"description": "latin small letter i with inverted breve",
+		"folded": "i"
+	},
+	{
+		"character": "Ȍ",
+		"description": "latin capital letter o with double grave",
+		"folded": "o"
+	},
+	{
+		"character": "ȍ",
+		"description": "latin small letter o with double grave",
+		"folded": "o"
+	},
+	{
+		"character": "Ȏ",
+		"description": "latin capital letter o with inverted breve",
+		"folded": "o"
+	},
+	{
+		"character": "ȏ",
+		"description": "latin small letter o with inverted breve",
+		"folded": "o"
+	},
+	{
+		"character": "Ȑ",
+		"description": "latin capital letter r with double grave",
+		"folded": "r"
+	},
+	{
+		"character": "ȑ",
+		"description": "latin small letter r with double grave",
+		"folded": "r"
+	},
+	{
+		"character": "Ȓ",
+		"description": "latin capital letter r with inverted breve",
+		"folded": "r"
+	},
+	{
+		"character": "ȓ",
+		"description": "latin small letter r with inverted breve",
+		"folded": "r"
+	},
+	{
+		"character": "Ȕ",
+		"description": "latin capital letter u with double grave",
+		"folded": "u"
+	},
+	{
+		"character": "ȕ",
+		"description": "latin small letter u with double grave",
+		"folded": "u"
+	},
+	{
+		"character": "Ȗ",
+		"description": "latin capital letter u with inverted breve",
+		"folded": "u"
+	},
+	{
+		"character": "ȗ",
+		"description": "latin small letter u with inverted breve",
+		"folded": "u"
+	},
+	{
+		"character": "Ș",
+		"description": "latin capital letter s with comma below",
+		"folded": "s"
+	},
+	{
+		"character": "ș",
+		"description": "latin small letter s with comma below",
+		"folded": "s"
+	},
+	{
+		"character": "Ț",
+		"description": "latin capital letter t with comma below",
+		"folded": "t"
+	},
+	{
+		"character": "ț",
+		"description": "latin small letter t with comma below",
+		"folded": "t"
+	},
+	{
+		"character": "Ȝ",
+		"description": "latin capital letter yogh",
+		"folded": "ȝ"
+	},
+	{
+		"character": "ȝ",
+		"description": "latin small letter yogh",
+		"folded": "ȝ"
+	},
+	{
+		"character": "Ȟ",
+		"description": "latin capital letter h with caron",
+		"folded": "h"
+	},
+	{
+		"character": "ȟ",
+		"description": "latin small letter h with caron",
+		"folded": "h"
+	},
+	{
+		"character": "Ƞ",
+		"description": "latin capital letter n with long right leg",
+		"folded": "n"
+	},
+	{
+		"character": "ȡ",
+		"description": "latin small letter d with curl",
+		"folded": "d"
+	},
+	{
+		"character": "Ȣ",
+		"description": "latin capital letter ou",
+		"folded": "ȣ"
+	},
+	{
+		"character": "ȣ",
+		"description": "latin small letter ou",
+		"folded": "ȣ"
+	},
+	{
+		"character": "Ȥ",
+		"description": "latin capital letter z with hook",
+		"folded": "z"
+	},
+	{
+		"character": "ȥ",
+		"description": "latin small letter z with hook",
+		"folded": "z"
+	},
+	{
+		"character": "Ȧ",
+		"description": "latin capital letter a with dot above",
+		"folded": "a"
+	},
+	{
+		"character": "ȧ",
+		"description": "latin small letter a with dot above",
+		"folded": "a"
+	},
+	{
+		"character": "Ȩ",
+		"description": "latin capital letter e with cedilla",
+		"folded": "e"
+	},
+	{
+		"character": "ȩ",
+		"description": "latin small letter e with cedilla",
+		"folded": "e"
+	},
+	{
+		"character": "Ȫ",
+		"description": "latin capital letter o with diaeresis and macron",
+		"folded": "o"
+	},
+	{
+		"character": "ȫ",
+		"description": "latin small letter o with diaeresis and macron",
+		"folded": "o"
+	},
+	{
+		"character": "Ȭ",
+		"description": "latin capital letter o with tilde and macron",
+		"folded": "o"
+	},
+	{
+		"character": "ȭ",
+		"description": "latin small letter o with tilde and macron",
+		"folded": "o"
+	},
+	{
+		"character": "Ȯ",
+		"description": "latin capital letter o with dot above",
+		"folded": "o"
+	},
+	{
+		"character": "ȯ",
+		"description": "latin small letter o with dot above",
+		"folded": "o"
+	},
+	{
+		"character": "Ȱ",
+		"description": "latin capital letter o with dot above and macron",
+		"folded": "o"
+	},
+	{
+		"character": "ȱ",
+		"description": "latin small letter o with dot above and macron",
+		"folded": "o"
+	},
+	{
+		"character": "Ȳ",
+		"description": "latin capital letter y with macron",
+		"folded": "y"
+	},
+	{
+		"character": "ȳ",
+		"description": "latin small letter y with macron",
+		"folded": "y"
+	},
+	{
+		"character": "ȴ",
+		"description": "latin small letter l with curl",
+		"folded": "l"
+	},
+	{
+		"character": "ȵ",
+		"description": "latin small letter n with curl",
+		"folded": "n"
+	},
+	{
+		"character": "ȶ",
+		"description": "latin small letter t with curl",
+		"folded": "t"
+	},
+	{
+		"character": "ȷ",
+		"description": "latin small letter dotless j",
+		"folded": "j"
+	},
+	{
+		"character": "ȸ",
+		"description": "latin small letter db digraph",
+		"folded": "ȸ"
+	},
+	{
+		"character": "ȹ",
+		"description": "latin small letter qp digraph",
+		"folded": "ȹ"
+	},
+	{
+		"character": "Ⱥ",
+		"description": "latin capital letter a with stroke",
+		"folded": "a"
+	},
+	{
+		"character": "Ȼ",
+		"description": "latin capital letter c with stroke",
+		"folded": "c"
+	},
+	{
+		"character": "ȼ",
+		"description": "latin small letter c with stroke",
+		"folded": "c"
+	},
+	{
+		"character": "Ƚ",
+		"description": "latin capital letter l with bar",
+		"folded": "l"
+	},
+	{
+		"character": "Ⱦ",
+		"description": "latin capital letter t with diagonal stroke",
+		"folded": "t"
+	},
+	{
+		"character": "ȿ",
+		"description": "latin small letter s with swash tail",
+		"folded": "ȿ"
+	},
+	{
+		"character": "ɀ",
+		"description": "latin small letter z with swash tail",
+		"folded": "ɀ"
+	},
+	{
+		"character": "Ɂ",
+		"description": "latin capital letter glottal stop",
+		"folded": "ɂ"
+	},
+	{
+		"character": "ɂ",
+		"description": "latin small letter glottal stop",
+		"folded": "ɂ"
+	},
+	{
+		"character": "Ƀ",
+		"description": "latin capital letter b with stroke",
+		"folded": "b"
+	},
+	{
+		"character": "Ʉ",
+		"description": "latin capital letter u bar",
+		"folded": "u"
+	},
+	{
+		"character": "Ʌ",
+		"description": "latin capital letter turned v",
+		"folded": "ʌ"
+	},
+	{
+		"character": "Ɇ",
+		"description": "latin capital letter e with stroke",
+		"folded": "e"
+	},
+	{
+		"character": "ɇ",
+		"description": "latin small letter e with stroke",
+		"folded": "e"
+	},
+	{
+		"character": "Ɉ",
+		"description": "latin capital letter j with stroke",
+		"folded": "j"
+	},
+	{
+		"character": "ɉ",
+		"description": "latin small letter j with stroke",
+		"folded": "j"
+	},
+	{
+		"character": "Ɋ",
+		"description": "latin capital letter small q with hook tail",
+		"folded": "q"
+	},
+	{
+		"character": "ɋ",
+		"description": "latin small letter q with hook tail",
+		"folded": "q"
+	},
+	{
+		"character": "Ɍ",
+		"description": "latin capital letter r with stroke",
+		"folded": "r"
+	},
+	{
+		"character": "ɍ",
+		"description": "latin small letter r with stroke",
+		"folded": "r"
+	},
+	{
+		"character": "Ɏ",
+		"description": "latin capital letter y with stroke",
+		"folded": "y"
+	},
+	{
+		"character": "ɏ",
+		"description": "latin small letter y with stroke",
+		"folded": "y"
+	},
+	{
+		"character": "ɐ",
+		"description": "latin small letter turned a",
+		"folded": "ɐ"
+	},
+	{
+		"character": "ɑ",
+		"description": "latin small letter alpha",
+		"folded": "ɑ"
+	},
+	{
+		"character": "ɒ",
+		"description": "latin small letter turned alpha",
+		"folded": "ɒ"
+	},
+	{
+		"character": "ɓ",
+		"description": "latin small letter b with hook",
+		"folded": "b"
+	},
+	{
+		"character": "ɔ",
+		"description": "latin small letter open o",
+		"folded": "ɔ"
+	},
+	{
+		"character": "ɕ",
+		"description": "latin small letter c with curl",
+		"folded": "c"
+	},
+	{
+		"character": "ɖ",
+		"description": "latin small letter d with tail",
+		"folded": "d"
+	},
+	{
+		"character": "ɗ",
+		"description": "latin small letter d with hook",
+		"folded": "d"
+	},
+	{
+		"character": "ɘ",
+		"description": "latin small letter reversed e",
+		"folded": "ɘ"
+	},
+	{
+		"character": "ə",
+		"description": "latin small letter schwa",
+		"folded": "ə"
+	},
+	{
+		"character": "ɚ",
+		"description": "latin small letter schwa with hook",
+		"folded": "e"
+	},
+	{
+		"character": "ɛ",
+		"description": "latin small letter open e",
+		"folded": "ɛ"
+	},
+	{
+		"character": "ɜ",
+		"description": "latin small letter reversed open e",
+		"folded": "ɜ"
+	},
+	{
+		"character": "ɝ",
+		"description": "latin small letter reversed open e with hook",
+		"folded": "e"
+	},
+	{
+		"character": "ɞ",
+		"description": "latin small letter closed reversed open e",
+		"folded": "ɞ"
+	},
+	{
+		"character": "ɟ",
+		"description": "latin small letter dotless j with stroke",
+		"folded": "j"
+	},
+	{
+		"character": "ɠ",
+		"description": "latin small letter g with hook",
+		"folded": "g"
+	},
+	{
+		"character": "ɡ",
+		"description": "latin small letter script g",
+		"folded": "ɡ"
+	},
+	{
+		"character": "ɢ",
+		"description": "latin letter small capital g",
+		"folded": "ɢ"
+	},
+	{
+		"character": "ɣ",
+		"description": "latin small letter gamma",
+		"folded": "ɣ"
+	},
+	{
+		"character": "ɤ",
+		"description": "latin small letter rams horn",
+		"folded": "ɤ"
+	},
+	{
+		"character": "ɥ",
+		"description": "latin small letter turned h",
+		"folded": "ɥ"
+	},
+	{
+		"character": "ɦ",
+		"description": "latin small letter h with hook",
+		"folded": "ɦ"
+	},
+	{
+		"character": "ɧ",
+		"description": "latin small letter heng with hook",
+		"folded": "ɧ"
+	},
+	{
+		"character": "ɨ",
+		"description": "latin small letter i with stroke",
+		"folded": "i"
+	},
+	{
+		"character": "ɩ",
+		"description": "latin small letter iota",
+		"folded": "ɩ"
+	},
+	{
+		"character": "ɪ",
+		"description": "latin letter small capital i",
+		"folded": "ɪ"
+	},
+	{
+		"character": "ɫ",
+		"description": "latin small letter l with middle tilde",
+		"folded": "l"
+	},
+	{
+		"character": "ɬ",
+		"description": "latin small letter l with belt",
+		"folded": "l"
+	},
+	{
+		"character": "ɭ",
+		"description": "latin small letter l with retroflex hook",
+		"folded": "l"
+	},
+	{
+		"character": "ɮ",
+		"description": "latin small letter lezh",
+		"folded": "ɮ"
+	},
+	{
+		"character": "ɯ",
+		"description": "latin small letter turned m",
+		"folded": "ɯ"
+	},
+	{
+		"character": "ɰ",
+		"description": "latin small letter turned m with long leg",
+		"folded": "ɰ"
+	},
+	{
+		"character": "ɱ",
+		"description": "latin small letter m with hook",
+		"folded": "m"
+	},
+	{
+		"character": "ɲ",
+		"description": "latin small letter n with left hook",
+		"folded": "n"
+	},
+	{
+		"character": "ɳ",
+		"description": "latin small letter n with retroflex hook",
+		"folded": "n"
+	},
+	{
+		"character": "ɴ",
+		"description": "latin letter small capital n",
+		"folded": "ɴ"
+	},
+	{
+		"character": "ɵ",
+		"description": "latin small letter barred o",
+		"folded": "o"
+	},
+	{
+		"character": "ɶ",
+		"description": "latin letter small capital oe",
+		"folded": "ɶ"
+	},
+	{
+		"character": "ɷ",
+		"description": "latin small letter closed omega",
+		"folded": "ɷ"
+	},
+	{
+		"character": "ɸ",
+		"description": "latin small letter phi",
+		"folded": "ɸ"
+	},
+	{
+		"character": "ɹ",
+		"description": "latin small letter turned r",
+		"folded": "ɹ"
+	},
+	{
+		"character": "ɺ",
+		"description": "latin small letter turned r with long leg",
+		"folded": "ɺ"
+	},
+	{
+		"character": "ɻ",
+		"description": "latin small letter turned r with hook",
+		"folded": "ɻ"
+	},
+	{
+		"character": "ɼ",
+		"description": "latin small letter r with long leg",
+		"folded": "r"
+	},
+	{
+		"character": "ɽ",
+		"description": "latin small letter r with tail",
+		"folded": "r"
+	},
+	{
+		"character": "ɾ",
+		"description": "latin small letter r with fishhook",
+		"folded": "r"
+	},
+	{
+		"character": "ɿ",
+		"description": "latin small letter reversed r with fishhook",
+		"folded": "ɿ"
+	},
+	{
+		"character": "ʀ",
+		"description": "latin letter small capital r",
+		"folded": "ʀ"
+	},
+	{
+		"character": "ʁ",
+		"description": "latin letter small capital inverted r",
+		"folded": "ʁ"
+	},
+	{
+		"character": "ʂ",
+		"description": "latin small letter s with hook",
+		"folded": "s"
+	},
+	{
+		"character": "ʃ",
+		"description": "latin small letter esh",
+		"folded": "ʃ"
+	},
+	{
+		"character": "ʄ",
+		"description": "latin small letter dotless j with stroke and hook",
+		"folded": "j"
+	},
+	{
+		"character": "ʅ",
+		"description": "latin small letter squat reversed esh",
+		"folded": "ʅ"
+	},
+	{
+		"character": "ʆ",
+		"description": "latin small letter esh with curl",
+		"folded": "ʆ"
+	},
+	{
+		"character": "ʇ",
+		"description": "latin small letter turned t",
+		"folded": "ʇ"
+	},
+	{
+		"character": "ʈ",
+		"description": "latin small letter t with retroflex hook",
+		"folded": "t"
+	},
+	{
+		"character": "ʉ",
+		"description": "latin small letter u bar",
+		"folded": "u"
+	},
+	{
+		"character": "ʊ",
+		"description": "latin small letter upsilon",
+		"folded": "ʊ"
+	},
+	{
+		"character": "ʋ",
+		"description": "latin small letter v with hook",
+		"folded": "v"
+	},
+	{
+		"character": "ʌ",
+		"description": "latin small letter turned v",
+		"folded": "ʌ"
+	},
+	{
+		"character": "ʍ",
+		"description": "latin small letter turned w",
+		"folded": "ʍ"
+	},
+	{
+		"character": "ʎ",
+		"description": "latin small letter turned y",
+		"folded": "ʎ"
+	},
+	{
+		"character": "ʏ",
+		"description": "latin letter small capital y",
+		"folded": "y"
+	},
+	{
+		"character": "ʐ",
+		"description": "latin small letter z with retroflex hook",
+		"folded": "z"
+	},
+	{
+		"character": "ʑ",
+		"description": "latin small letter z with curl",
+		"folded": "z"
+	},
+	{
+		"character": "ʒ",
+		"description": "latin small letter ezh",
+		"folded": "ʒ"
+	},
+	{
+		"character": "ʓ",
+		"description": "latin small letter ezh with curl",
+		"folded": "ʓ"
+	},
+	{
+		"character": "ʔ",
+		"description": "latin letter glottal stop",
+		"folded": "ʔ"
+	},
+	{
+		"character": "ʕ",
+		"description": "latin letter pharyngeal voiced fricative",
+		"folded": "ʕ"
+	},
+	{
+		"character": "ʖ",
+		"description": "latin letter inverted glottal stop",
+		"folded": "ʖ"
+	},
+	{
+		"character": "ʗ",
+		"description": "latin letter stretched c",
+		"folded": "ʗ"
+	},
+	{
+		"character": "ʘ",
+		"description": "latin letter bilabial click",
+		"folded": "ʘ"
+	},
+	{
+		"character": "ʙ",
+		"description": "latin letter small capital b",
+		"folded": "ʙ"
+	},
+	{
+		"character": "ʚ",
+		"description": "latin small letter closed open e",
+		"folded": "ʚ"
+	},
+	{
+		"character": "ʛ",
+		"description": "latin letter small capital g with hook",
+		"folded": "ʛ"
+	},
+	{
+		"character": "ʜ",
+		"description": "latin letter small capital h",
+		"folded": "ʜ"
+	},
+	{
+		"character": "ʝ",
+		"description": "latin small letter j with crossed-tail",
+		"folded": "j"
+	},
+	{
+		"character": "ʞ",
+		"description": "latin small letter turned k",
+		"folded": "ʞ"
+	},
+	{
+		"character": "ʟ",
+		"description": "latin letter small capital l",
+		"folded": "ʟ"
+	},
+	{
+		"character": "ʠ",
+		"description": "latin small letter q with hook",
+		"folded": "q"
+	},
+	{
+		"character": "ʡ",
+		"description": "latin letter glottal stop with stroke",
+		"folded": "ʡ"
+	},
+	{
+		"character": "ʢ",
+		"description": "latin letter reversed glottal stop with stroke",
+		"folded": "ʢ"
+	},
+	{
+		"character": "ʣ",
+		"description": "latin small letter dz digraph",
+		"folded": "ʣ"
+	},
+	{
+		"character": "ʤ",
+		"description": "latin small letter dezh digraph",
+		"folded": "ʤ"
+	},
+	{
+		"character": "ʥ",
+		"description": "latin small letter dz digraph with curl",
+		"folded": "ʥ"
+	},
+	{
+		"character": "ʦ",
+		"description": "latin small letter ts digraph",
+		"folded": "ʦ"
+	},
+	{
+		"character": "ʧ",
+		"description": "latin small letter tesh digraph",
+		"folded": "ʧ"
+	},
+	{
+		"character": "ʨ",
+		"description": "latin small letter tc digraph with curl",
+		"folded": "ʨ"
+	},
+	{
+		"character": "ʩ",
+		"description": "latin small letter feng digraph",
+		"folded": "ʩ"
+	},
+	{
+		"character": "ʪ",
+		"description": "latin small letter ls digraph",
+		"folded": "ʪ"
+	},
+	{
+		"character": "ʫ",
+		"description": "latin small letter lz digraph",
+		"folded": "ʫ"
+	},
+	{
+		"character": "ʬ",
+		"description": "latin letter bilabial percussive",
+		"folded": "ʬ"
+	},
+	{
+		"character": "ʭ",
+		"description": "latin letter bidental percussive",
+		"folded": "ʭ"
+	},
+	{
+		"character": "ʮ",
+		"description": "latin small letter turned h with fishhook",
+		"folded": "ʮ"
+	},
+	{
+		"character": "ʯ",
+		"description": "latin small letter turned h with fishhook and tail",
+		"folded": "ʯ"
+	},
+	{
+		"character": "ʰ",
+		"description": "modifier letter small h",
+		"folded": "ʰ"
+	},
+	{
+		"character": "ʱ",
+		"description": "modifier letter small h with hook",
+		"folded": "ʱ"
+	},
+	{
+		"character": "ʲ",
+		"description": "modifier letter small j",
+		"folded": "ʲ"
+	},
+	{
+		"character": "ʳ",
+		"description": "modifier letter small r",
+		"folded": "ʳ"
+	},
+	{
+		"character": "ʴ",
+		"description": "modifier letter small turned r",
+		"folded": "ʴ"
+	},
+	{
+		"character": "ʵ",
+		"description": "modifier letter small turned r with hook",
+		"folded": "ʵ"
+	},
+	{
+		"character": "ʶ",
+		"description": "modifier letter small capital inverted r",
+		"folded": "ʶ"
+	},
+	{
+		"character": "ʷ",
+		"description": "modifier letter small w",
+		"folded": "ʷ"
+	},
+	{
+		"character": "ʸ",
+		"description": "modifier letter small y",
+		"folded": "ʸ"
+	},
+	{
+		"character": "ʹ",
+		"description": "modifier letter prime",
+		"folded": "ʹ"
+	},
+	{
+		"character": "ʺ",
+		"description": "modifier letter double prime",
+		"folded": "ʺ"
+	},
+	{
+		"character": "ʻ",
+		"description": "modifier letter turned comma",
+		"folded": "ʻ"
+	},
+	{
+		"character": "ʼ",
+		"description": "modifier letter apostrophe",
+		"folded": "ʼ"
+	},
+	{
+		"character": "ʽ",
+		"description": "modifier letter reversed comma",
+		"folded": "ʽ"
+	},
+	{
+		"character": "ʾ",
+		"description": "modifier letter right half ring",
+		"folded": "ʾ"
+	},
+	{
+		"character": "ʿ",
+		"description": "modifier letter left half ring",
+		"folded": "ʿ"
+	},
+	{
+		"character": "ˀ",
+		"description": "modifier letter glottal stop",
+		"folded": "ˀ"
+	},
+	{
+		"character": "ˁ",
+		"description": "modifier letter reversed glottal stop",
+		"folded": "ˁ"
+	},
+	{
+		"character": "˂",
+		"description": "modifier letter left arrowhead",
+		"folded": "˂"
+	},
+	{
+		"character": "˃",
+		"description": "modifier letter right arrowhead",
+		"folded": "˃"
+	},
+	{
+		"character": "˄",
+		"description": "modifier letter up arrowhead",
+		"folded": "˄"
+	},
+	{
+		"character": "˅",
+		"description": "modifier letter down arrowhead",
+		"folded": "˅"
+	},
+	{
+		"character": "ˆ",
+		"description": "modifier letter circumflex accent",
+		"folded": "ˆ"
+	},
+	{
+		"character": "ˇ",
+		"description": "caron",
+		"folded": "ˇ"
+	},
+	{
+		"character": "ˈ",
+		"description": "modifier letter vertical line",
+		"folded": "ˈ"
+	},
+	{
+		"character": "ˉ",
+		"description": "modifier letter macron",
+		"folded": "ˉ"
+	},
+	{
+		"character": "ˊ",
+		"description": "modifier letter acute accent",
+		"folded": "ˊ"
+	},
+	{
+		"character": "ˋ",
+		"description": "modifier letter grave accent",
+		"folded": "ˋ"
+	},
+	{
+		"character": "ˌ",
+		"description": "modifier letter low vertical line",
+		"folded": "ˌ"
+	},
+	{
+		"character": "ˍ",
+		"description": "modifier letter low macron",
+		"folded": "ˍ"
+	},
+	{
+		"character": "ˎ",
+		"description": "modifier letter low grave accent",
+		"folded": "ˎ"
+	},
+	{
+		"character": "ˏ",
+		"description": "modifier letter low acute accent",
+		"folded": "ˏ"
+	},
+	{
+		"character": "ː",
+		"description": "modifier letter triangular colon",
+		"folded": "ː"
+	},
+	{
+		"character": "ˑ",
+		"description": "modifier letter half triangular colon",
+		"folded": "ˑ"
+	},
+	{
+		"character": "˒",
+		"description": "modifier letter centred right half ring",
+		"folded": "˒"
+	},
+	{
+		"character": "˓",
+		"description": "modifier letter centred left half ring",
+		"folded": "˓"
+	},
+	{
+		"character": "˔",
+		"description": "modifier letter up tack",
+		"folded": "˔"
+	},
+	{
+		"character": "˕",
+		"description": "modifier letter down tack",
+		"folded": "˕"
+	},
+	{
+		"character": "˖",
+		"description": "modifier letter plus sign",
+		"folded": "˖"
+	},
+	{
+		"character": "˗",
+		"description": "modifier letter minus sign",
+		"folded": "˗"
+	},
+	{
+		"character": "˘",
+		"description": "breve",
+		"folded": "˘"
+	},
+	{
+		"character": "˙",
+		"description": "dot above",
+		"folded": "˙"
+	},
+	{
+		"character": "˚",
+		"description": "ring above",
+		"folded": "˚"
+	},
+	{
+		"character": "˛",
+		"description": "ogonek",
+		"folded": "˛"
+	},
+	{
+		"character": "˜",
+		"description": "small tilde",
+		"folded": "˜"
+	},
+	{
+		"character": "˝",
+		"description": "double acute accent",
+		"folded": "˝"
+	},
+	{
+		"character": "˞",
+		"description": "modifier letter rhotic hook",
+		"folded": "˞"
+	},
+	{
+		"character": "˟",
+		"description": "modifier letter cross accent",
+		"folded": "˟"
+	},
+	{
+		"character": "ˠ",
+		"description": "modifier letter small gamma",
+		"folded": "ˠ"
+	},
+	{
+		"character": "ˡ",
+		"description": "modifier letter small l",
+		"folded": "ˡ"
+	},
+	{
+		"character": "ˢ",
+		"description": "modifier letter small s",
+		"folded": "ˢ"
+	},
+	{
+		"character": "ˣ",
+		"description": "modifier letter small x",
+		"folded": "ˣ"
+	},
+	{
+		"character": "ˤ",
+		"description": "modifier letter small reversed glottal stop",
+		"folded": "ˤ"
+	},
+	{
+		"character": "˥",
+		"description": "modifier letter extra-high tone bar",
+		"folded": "˥"
+	},
+	{
+		"character": "˦",
+		"description": "modifier letter high tone bar",
+		"folded": "˦"
+	},
+	{
+		"character": "˧",
+		"description": "modifier letter mid tone bar",
+		"folded": "˧"
+	},
+	{
+		"character": "˨",
+		"description": "modifier letter low tone bar",
+		"folded": "˨"
+	},
+	{
+		"character": "˩",
+		"description": "modifier letter extra-low tone bar",
+		"folded": "˩"
+	},
+	{
+		"character": "˪",
+		"description": "modifier letter yin departing tone mark",
+		"folded": "˪"
+	},
+	{
+		"character": "˫",
+		"description": "modifier letter yang departing tone mark",
+		"folded": "˫"
+	},
+	{
+		"character": "ˬ",
+		"description": "modifier letter voicing",
+		"folded": "ˬ"
+	},
+	{
+		"character": "˭",
+		"description": "modifier letter unaspirated",
+		"folded": "˭"
+	},
+	{
+		"character": "ˮ",
+		"description": "modifier letter double apostrophe",
+		"folded": "ˮ"
+	},
+	{
+		"character": "˯",
+		"description": "modifier letter low down arrowhead",
+		"folded": "˯"
+	},
+	{
+		"character": "˰",
+		"description": "modifier letter low up arrowhead",
+		"folded": "˰"
+	},
+	{
+		"character": "˱",
+		"description": "modifier letter low left arrowhead",
+		"folded": "˱"
+	},
+	{
+		"character": "˲",
+		"description": "modifier letter low right arrowhead",
+		"folded": "˲"
+	},
+	{
+		"character": "˳",
+		"description": "modifier letter low ring",
+		"folded": "˳"
+	},
+	{
+		"character": "˴",
+		"description": "modifier letter middle grave accent",
+		"folded": "˴"
+	},
+	{
+		"character": "˵",
+		"description": "modifier letter middle double grave accent",
+		"folded": "˵"
+	},
+	{
+		"character": "˶",
+		"description": "modifier letter middle double acute accent",
+		"folded": "˶"
+	},
+	{
+		"character": "˷",
+		"description": "modifier letter low tilde",
+		"folded": "˷"
+	},
+	{
+		"character": "˸",
+		"description": "modifier letter raised colon",
+		"folded": "˸"
+	},
+	{
+		"character": "˹",
+		"description": "modifier letter begin high tone",
+		"folded": "˹"
+	},
+	{
+		"character": "˺",
+		"description": "modifier letter end high tone",
+		"folded": "˺"
+	},
+	{
+		"character": "˻",
+		"description": "modifier letter begin low tone",
+		"folded": "˻"
+	},
+	{
+		"character": "˼",
+		"description": "modifier letter end low tone",
+		"folded": "˼"
+	},
+	{
+		"character": "˽",
+		"description": "modifier letter shelf",
+		"folded": "˽"
+	},
+	{
+		"character": "˾",
+		"description": "modifier letter open shelf",
+		"folded": "˾"
+	},
+	{
+		"character": "˿",
+		"description": "modifier letter low left arrow",
+		"folded": "˿"
+	},
+	{
+		"character": "̀",
+		"description": "combining grave accent",
+		"folded": "̀"
+	},
+	{
+		"character": "́",
+		"description": "combining acute accent",
+		"folded": "́"
+	},
+	{
+		"character": "̂",
+		"description": "combining circumflex accent",
+		"folded": "̂"
+	},
+	{
+		"character": "̃",
+		"description": "combining tilde",
+		"folded": "p"
+	},
+	{
+		"character": "̄",
+		"description": "combining macron",
+		"folded": "̄"
+	},
+	{
+		"character": "̅",
+		"description": "combining overline",
+		"folded": "̅"
+	},
+	{
+		"character": "̆",
+		"description": "combining breve",
+		"folded": "̆"
+	},
+	{
+		"character": "̇",
+		"description": "combining dot above",
+		"folded": "̇"
+	},
+	{
+		"character": "̈",
+		"description": "combining diaeresis",
+		"folded": "t"
+	},
+	{
+		"character": "̉",
+		"description": "combining hook above",
+		"folded": "̉"
+	},
+	{
+		"character": "̊",
+		"description": "combining ring above",
+		"folded": "y"
+	},
+	{
+		"character": "̋",
+		"description": "combining double acute accent",
+		"folded": "̋"
+	},
+	{
+		"character": "̌",
+		"description": "combining caron",
+		"folded": "j"
+	},
+	{
+		"character": "̍",
+		"description": "combining vertical line above",
+		"folded": "̍"
+	},
+	{
+		"character": "̎",
+		"description": "combining double vertical line above",
+		"folded": "̎"
+	},
+	{
+		"character": "̏",
+		"description": "combining double grave accent",
+		"folded": "̏"
+	},
+	{
+		"character": "̐",
+		"description": "combining candrabindu",
+		"folded": "̐"
+	},
+	{
+		"character": "̑",
+		"description": "combining inverted breve",
+		"folded": "̑"
+	},
+	{
+		"character": "̒",
+		"description": "combining turned comma above",
+		"folded": "̒"
+	},
+	{
+		"character": "̓",
+		"description": "combining comma above",
+		"folded": "̓"
+	},
+	{
+		"character": "̔",
+		"description": "combining reversed comma above",
+		"folded": "̔"
+	},
+	{
+		"character": "̕",
+		"description": "combining comma above right",
+		"folded": "̕"
+	},
+	{
+		"character": "̖",
+		"description": "combining grave accent below",
+		"folded": "̖"
+	},
+	{
+		"character": "̗",
+		"description": "combining acute accent below",
+		"folded": "̗"
+	},
+	{
+		"character": "̘",
+		"description": "combining left tack below",
+		"folded": "̘"
+	},
+	{
+		"character": "̙",
+		"description": "combining right tack below",
+		"folded": "̙"
+	},
+	{
+		"character": "̚",
+		"description": "combining left angle above",
+		"folded": "̚"
+	},
+	{
+		"character": "̛",
+		"description": "combining horn",
+		"folded": "̛"
+	},
+	{
+		"character": "̜",
+		"description": "combining left half ring below",
+		"folded": "̜"
+	},
+	{
+		"character": "̝",
+		"description": "combining up tack below",
+		"folded": "̝"
+	},
+	{
+		"character": "̞",
+		"description": "combining down tack below",
+		"folded": "̞"
+	},
+	{
+		"character": "̟",
+		"description": "combining plus sign below",
+		"folded": "̟"
+	},
+	{
+		"character": "̠",
+		"description": "combining minus sign below",
+		"folded": "̠"
+	},
+	{
+		"character": "̡",
+		"description": "combining palatalized hook below",
+		"folded": "̡"
+	},
+	{
+		"character": "̢",
+		"description": "combining retroflex hook below",
+		"folded": "̢"
+	},
+	{
+		"character": "̣",
+		"description": "combining dot below",
+		"folded": "l"
+	},
+	{
+		"character": "̤",
+		"description": "combining diaeresis below",
+		"folded": "̤"
+	},
+	{
+		"character": "̥",
+		"description": "combining ring below",
+		"folded": "̥"
+	},
+	{
+		"character": "̦",
+		"description": "combining comma below",
+		"folded": "̦"
+	},
+	{
+		"character": "̧",
+		"description": "combining cedilla",
+		"folded": "̧"
+	},
+	{
+		"character": "̨",
+		"description": "combining ogonek",
+		"folded": "̨"
+	},
+	{
+		"character": "̩",
+		"description": "combining vertical line below",
+		"folded": "s"
+	},
+	{
+		"character": "̪",
+		"description": "combining bridge below",
+		"folded": "̪"
+	},
+	{
+		"character": "̫",
+		"description": "combining inverted double arch below",
+		"folded": "̫"
+	},
+	{
+		"character": "̬",
+		"description": "combining caron below",
+		"folded": "̬"
+	},
+	{
+		"character": "̭",
+		"description": "combining circumflex accent below",
+		"folded": "̭"
+	},
+	{
+		"character": "̮",
+		"description": "combining breve below",
+		"folded": "̮"
+	},
+	{
+		"character": "̯",
+		"description": "combining inverted breve below",
+		"folded": "̯"
+	},
+	{
+		"character": "̰",
+		"description": "combining tilde below",
+		"folded": "̰"
+	},
+	{
+		"character": "̱",
+		"description": "combining macron below",
+		"folded": "h"
+	},
+	{
+		"character": "̲",
+		"description": "combining low line",
+		"folded": "̲"
+	},
+	{
+		"character": "̳",
+		"description": "combining double low line",
+		"folded": "̳"
+	},
+	{
+		"character": "̴",
+		"description": "combining tilde overlay",
+		"folded": "̴"
+	},
+	{
+		"character": "̵",
+		"description": "combining short stroke overlay",
+		"folded": "̵"
+	},
+	{
+		"character": "̶",
+		"description": "combining long stroke overlay",
+		"folded": "̶"
+	},
+	{
+		"character": "̷",
+		"description": "combining short solidus overlay",
+		"folded": "̷"
+	},
+	{
+		"character": "̸",
+		"description": "combining long solidus overlay",
+		"folded": "̸"
+	},
+	{
+		"character": "̹",
+		"description": "combining right half ring below",
+		"folded": "̹"
+	},
+	{
+		"character": "̺",
+		"description": "combining inverted bridge below",
+		"folded": "̺"
+	},
+	{
+		"character": "̻",
+		"description": "combining square below",
+		"folded": "̻"
+	},
+	{
+		"character": "̼",
+		"description": "combining seagull below",
+		"folded": "̼"
+	},
+	{
+		"character": "̽",
+		"description": "combining x above",
+		"folded": "̽"
+	},
+	{
+		"character": "̾",
+		"description": "combining vertical tilde",
+		"folded": "̾"
+	},
+	{
+		"character": "̿",
+		"description": "combining double overline",
+		"folded": "̿"
+	},
+	{
+		"character": "̀",
+		"description": "combining grave tone mark",
+		"folded": "̀"
+	},
+	{
+		"character": "́",
+		"description": "combining acute tone mark",
+		"folded": "́"
+	},
+	{
+		"character": "͂",
+		"description": "combining greek perispomeni",
+		"folded": "͂"
+	},
+	{
+		"character": "̓",
+		"description": "combining greek koronis",
+		"folded": "̓"
+	},
+	{
+		"character": "̈́",
+		"description": "combining greek dialytika tonos",
+		"folded": "̈́"
+	},
+	{
+		"character": "ͅ",
+		"description": "combining greek ypogegrammeni",
+		"folded": "ͅ"
+	},
+	{
+		"character": "͆",
+		"description": "combining bridge above",
+		"folded": "͆"
+	},
+	{
+		"character": "͇",
+		"description": "combining equals sign below",
+		"folded": "͇"
+	},
+	{
+		"character": "͈",
+		"description": "combining double vertical line below",
+		"folded": "͈"
+	},
+	{
+		"character": "͉",
+		"description": "combining left angle below",
+		"folded": "͉"
+	},
+	{
+		"character": "͊",
+		"description": "combining not tilde above",
+		"folded": "͊"
+	},
+	{
+		"character": "͋",
+		"description": "combining homothetic above",
+		"folded": "͋"
+	},
+	{
+		"character": "͌",
+		"description": "combining almost equal to above",
+		"folded": "͌"
+	},
+	{
+		"character": "͍",
+		"description": "combining left right arrow below",
+		"folded": "͍"
+	},
+	{
+		"character": "͎",
+		"description": "combining upwards arrow below",
+		"folded": "͎"
+	},
+	{
+		"character": "͏",
+		"description": "combining grapheme joiner",
+		"folded": "͏"
+	},
+	{
+		"character": "͐",
+		"description": "combining right arrowhead above",
+		"folded": "͐"
+	},
+	{
+		"character": "͑",
+		"description": "combining left half ring above",
+		"folded": "͑"
+	},
+	{
+		"character": "͒",
+		"description": "combining fermata",
+		"folded": "͒"
+	},
+	{
+		"character": "͓",
+		"description": "combining x below",
+		"folded": "͓"
+	},
+	{
+		"character": "͔",
+		"description": "combining left arrowhead below",
+		"folded": "͔"
+	},
+	{
+		"character": "͕",
+		"description": "combining right arrowhead below",
+		"folded": "͕"
+	},
+	{
+		"character": "͖",
+		"description": "combining right arrowhead and up arrowhead below",
+		"folded": "͖"
+	},
+	{
+		"character": "͗",
+		"description": "combining right half ring above",
+		"folded": "͗"
+	},
+	{
+		"character": "͘",
+		"description": "combining dot above right",
+		"folded": "͘"
+	},
+	{
+		"character": "͙",
+		"description": "combining asterisk below",
+		"folded": "͙"
+	},
+	{
+		"character": "͚",
+		"description": "combining double ring below",
+		"folded": "͚"
+	},
+	{
+		"character": "͛",
+		"description": "combining zigzag above",
+		"folded": "͛"
+	},
+	{
+		"character": "͜",
+		"description": "combining double breve below",
+		"folded": "͜"
+	},
+	{
+		"character": "͝",
+		"description": "combining double breve",
+		"folded": "͝"
+	},
+	{
+		"character": "͞",
+		"description": "combining double macron",
+		"folded": "͞"
+	},
+	{
+		"character": "͟",
+		"description": "combining double macron below",
+		"folded": "͟"
+	},
+	{
+		"character": "͠",
+		"description": "combining double tilde",
+		"folded": "͠"
+	},
+	{
+		"character": "͡",
+		"description": "combining double inverted breve",
+		"folded": "͡"
+	},
+	{
+		"character": "͢",
+		"description": "combining double rightwards arrow below",
+		"folded": "͢"
+	},
+	{
+		"character": "ͣ",
+		"description": "combining latin small letter a",
+		"folded": "ͣ"
+	},
+	{
+		"character": "ͤ",
+		"description": "combining latin small letter e",
+		"folded": "ͤ"
+	},
+	{
+		"character": "ͥ",
+		"description": "combining latin small letter i",
+		"folded": "ͥ"
+	},
+	{
+		"character": "ͦ",
+		"description": "combining latin small letter o",
+		"folded": "ͦ"
+	},
+	{
+		"character": "ͧ",
+		"description": "combining latin small letter u",
+		"folded": "ͧ"
+	},
+	{
+		"character": "ͨ",
+		"description": "combining latin small letter c",
+		"folded": "ͨ"
+	},
+	{
+		"character": "ͩ",
+		"description": "combining latin small letter d",
+		"folded": "ͩ"
+	},
+	{
+		"character": "ͪ",
+		"description": "combining latin small letter h",
+		"folded": "ͪ"
+	},
+	{
+		"character": "ͫ",
+		"description": "combining latin small letter m",
+		"folded": "ͫ"
+	},
+	{
+		"character": "ͬ",
+		"description": "combining latin small letter r",
+		"folded": "ͬ"
+	},
+	{
+		"character": "ͭ",
+		"description": "combining latin small letter t",
+		"folded": "ͭ"
+	},
+	{
+		"character": "ͮ",
+		"description": "combining latin small letter v",
+		"folded": "ͮ"
+	},
+	{
+		"character": "ͯ",
+		"description": "combining latin small letter x",
+		"folded": "ͯ"
+	},
+	{
+		"character": "Ͱ",
+		"description": "greek capital letter heta",
+		"folded": "ͱ"
+	},
+	{
+		"character": "ͱ",
+		"description": "greek small letter heta",
+		"folded": "ͱ"
+	},
+	{
+		"character": "Ͳ",
+		"description": "greek capital letter archaic sampi",
+		"folded": "ͳ"
+	},
+	{
+		"character": "ͳ",
+		"description": "greek small letter archaic sampi",
+		"folded": "ͳ"
+	},
+	{
+		"character": "ʹ",
+		"description": "greek numeral sign",
+		"folded": "ʹ"
+	},
+	{
+		"character": "͵",
+		"description": "greek lower numeral sign",
+		"folded": "͵"
+	},
+	{
+		"character": "Ͷ",
+		"description": "greek capital letter pamphylian digamma",
+		"folded": "ͷ"
+	},
+	{
+		"character": "ͷ",
+		"description": "greek small letter pamphylian digamma",
+		"folded": "ͷ"
+	},
+	{
+		"character": "ͺ",
+		"description": "greek ypogegrammeni",
+		"folded": "ͺ"
+	},
+	{
+		"character": "ͻ",
+		"description": "greek small reversed lunate sigma symbol",
+		"folded": "ͻ"
+	},
+	{
+		"character": "ͼ",
+		"description": "greek small dotted lunate sigma symbol",
+		"folded": "ͼ"
+	},
+	{
+		"character": "ͽ",
+		"description": "greek small reversed dotted lunate sigma symbol",
+		"folded": "ͽ"
+	},
+	{
+		"character": ";",
+		"description": "greek question mark",
+		"folded": ";"
+	},
+	{
+		"character": "Ϳ",
+		"description": "greek capital letter yot",
+		"folded": "ϳ"
+	},
+	{
+		"character": "΄",
+		"description": "greek tonos",
+		"folded": "΄"
+	},
+	{
+		"character": "΅",
+		"description": "greek dialytika tonos",
+		"folded": "΅"
+	},
+	{
+		"character": "Ά",
+		"description": "greek capital letter alpha with tonos",
+		"folded": "ά"
+	},
+	{
+		"character": "·",
+		"description": "greek ano teleia",
+		"folded": "·"
+	},
+	{
+		"character": "Έ",
+		"description": "greek capital letter epsilon with tonos",
+		"folded": "έ"
+	},
+	{
+		"character": "Ή",
+		"description": "greek capital letter eta with tonos",
+		"folded": "ή"
+	},
+	{
+		"character": "Ί",
+		"description": "greek capital letter iota with tonos",
+		"folded": "ί"
+	},
+	{
+		"character": "Ό",
+		"description": "greek capital letter omicron with tonos",
+		"folded": "ό"
+	},
+	{
+		"character": "Ύ",
+		"description": "greek capital letter upsilon with tonos",
+		"folded": "ύ"
+	},
+	{
+		"character": "Ώ",
+		"description": "greek capital letter omega with tonos",
+		"folded": "ώ"
+	},
+	{
+		"character": "ΐ",
+		"description": "greek small letter iota with dialytika and tonos",
+		"folded": "ΐ"
+	},
+	{
+		"character": "Α",
+		"description": "greek capital letter alpha",
+		"folded": "α"
+	},
+	{
+		"character": "Β",
+		"description": "greek capital letter beta",
+		"folded": "β"
+	},
+	{
+		"character": "Γ",
+		"description": "greek capital letter gamma",
+		"folded": "γ"
+	},
+	{
+		"character": "Δ",
+		"description": "greek capital letter delta",
+		"folded": "δ"
+	},
+	{
+		"character": "Ε",
+		"description": "greek capital letter epsilon",
+		"folded": "ε"
+	},
+	{
+		"character": "Ζ",
+		"description": "greek capital letter zeta",
+		"folded": "ζ"
+	},
+	{
+		"character": "Η",
+		"description": "greek capital letter eta",
+		"folded": "η"
+	},
+	{
+		"character": "Θ",
+		"description": "greek capital letter theta",
+		"folded": "θ"
+	},
+	{
+		"character": "Ι",
+		"description": "greek capital letter iota",
+		"folded": "ι"
+	},
+	{
+		"character": "Κ",
+		"description": "greek capital letter kappa",
+		"folded": "κ"
+	},
+	{
+		"character": "Λ",
+		"description": "greek capital letter lamda",
+		"folded": "λ"
+	},
+	{
+		"character": "Μ",
+		"description": "greek capital letter mu",
+		"folded": "μ"
+	},
+	{
+		"character": "Ν",
+		"description": "greek capital letter nu",
+		"folded": "ν"
+	},
+	{
+		"character": "Ξ",
+		"description": "greek capital letter xi",
+		"folded": "ξ"
+	},
+	{
+		"character": "Ο",
+		"description": "greek capital letter omicron",
+		"folded": "ο"
+	},
+	{
+		"character": "Π",
+		"description": "greek capital letter pi",
+		"folded": "π"
+	},
+	{
+		"character": "Ρ",
+		"description": "greek capital letter rho",
+		"folded": "ρ"
+	},
+	{
+		"character": "Σ",
+		"description": "greek capital letter sigma",
+		"folded": "σ"
+	},
+	{
+		"character": "Τ",
+		"description": "greek capital letter tau",
+		"folded": "τ"
+	},
+	{
+		"character": "Υ",
+		"description": "greek capital letter upsilon",
+		"folded": "υ"
+	},
+	{
+		"character": "Φ",
+		"description": "greek capital letter phi",
+		"folded": "φ"
+	},
+	{
+		"character": "Χ",
+		"description": "greek capital letter chi",
+		"folded": "χ"
+	},
+	{
+		"character": "Ψ",
+		"description": "greek capital letter psi",
+		"folded": "ψ"
+	},
+	{
+		"character": "Ω",
+		"description": "greek capital letter omega",
+		"folded": "ω"
+	},
+	{
+		"character": "Ϊ",
+		"description": "greek capital letter iota with dialytika",
+		"folded": "ϊ"
+	},
+	{
+		"character": "Ϋ",
+		"description": "greek capital letter upsilon with dialytika",
+		"folded": "ϋ"
+	},
+	{
+		"character": "ά",
+		"description": "greek small letter alpha with tonos",
+		"folded": "ά"
+	},
+	{
+		"character": "έ",
+		"description": "greek small letter epsilon with tonos",
+		"folded": "έ"
+	},
+	{
+		"character": "ή",
+		"description": "greek small letter eta with tonos",
+		"folded": "ή"
+	},
+	{
+		"character": "ί",
+		"description": "greek small letter iota with tonos",
+		"folded": "ί"
+	},
+	{
+		"character": "ΰ",
+		"description": "greek small letter upsilon with dialytika and tonos",
+		"folded": "ΰ"
+	},
+	{
+		"character": "α",
+		"description": "greek small letter alpha",
+		"folded": "α"
+	},
+	{
+		"character": "β",
+		"description": "greek small letter beta",
+		"folded": "β"
+	},
+	{
+		"character": "γ",
+		"description": "greek small letter gamma",
+		"folded": "γ"
+	},
+	{
+		"character": "δ",
+		"description": "greek small letter delta",
+		"folded": "δ"
+	},
+	{
+		"character": "ε",
+		"description": "greek small letter epsilon",
+		"folded": "ε"
+	},
+	{
+		"character": "ζ",
+		"description": "greek small letter zeta",
+		"folded": "ζ"
+	},
+	{
+		"character": "η",
+		"description": "greek small letter eta",
+		"folded": "η"
+	},
+	{
+		"character": "θ",
+		"description": "greek small letter theta",
+		"folded": "θ"
+	},
+	{
+		"character": "ι",
+		"description": "greek small letter iota",
+		"folded": "ι"
+	},
+	{
+		"character": "κ",
+		"description": "greek small letter kappa",
+		"folded": "κ"
+	},
+	{
+		"character": "λ",
+		"description": "greek small letter lamda",
+		"folded": "λ"
+	},
+	{
+		"character": "μ",
+		"description": "greek small letter mu",
+		"folded": "μ"
+	},
+	{
+		"character": "ν",
+		"description": "greek small letter nu",
+		"folded": "ν"
+	},
+	{
+		"character": "ξ",
+		"description": "greek small letter xi",
+		"folded": "ξ"
+	},
+	{
+		"character": "ο",
+		"description": "greek small letter omicron",
+		"folded": "ο"
+	},
+	{
+		"character": "π",
+		"description": "greek small letter pi",
+		"folded": "π"
+	},
+	{
+		"character": "ρ",
+		"description": "greek small letter rho",
+		"folded": "ρ"
+	},
+	{
+		"character": "ς",
+		"description": "greek small letter final sigma",
+		"folded": "ς"
+	},
+	{
+		"character": "σ",
+		"description": "greek small letter sigma",
+		"folded": "σ"
+	},
+	{
+		"character": "τ",
+		"description": "greek small letter tau",
+		"folded": "τ"
+	},
+	{
+		"character": "υ",
+		"description": "greek small letter upsilon",
+		"folded": "υ"
+	},
+	{
+		"character": "φ",
+		"description": "greek small letter phi",
+		"folded": "φ"
+	},
+	{
+		"character": "χ",
+		"description": "greek small letter chi",
+		"folded": "χ"
+	},
+	{
+		"character": "ψ",
+		"description": "greek small letter psi",
+		"folded": "ψ"
+	},
+	{
+		"character": "ω",
+		"description": "greek small letter omega",
+		"folded": "ω"
+	},
+	{
+		"character": "ϊ",
+		"description": "greek small letter iota with dialytika",
+		"folded": "ϊ"
+	},
+	{
+		"character": "ϋ",
+		"description": "greek small letter upsilon with dialytika",
+		"folded": "ϋ"
+	},
+	{
+		"character": "ό",
+		"description": "greek small letter omicron with tonos",
+		"folded": "ό"
+	},
+	{
+		"character": "ύ",
+		"description": "greek small letter upsilon with tonos",
+		"folded": "ύ"
+	},
+	{
+		"character": "ώ",
+		"description": "greek small letter omega with tonos",
+		"folded": "ώ"
+	},
+	{
+		"character": "Ϗ",
+		"description": "greek capital kai symbol",
+		"folded": "ϗ"
+	},
+	{
+		"character": "ϐ",
+		"description": "greek beta symbol",
+		"folded": "ϐ"
+	},
+	{
+		"character": "ϑ",
+		"description": "greek theta symbol",
+		"folded": "ϑ"
+	},
+	{
+		"character": "ϒ",
+		"description": "greek upsilon with hook symbol",
+		"folded": "ϒ"
+	},
+	{
+		"character": "ϓ",
+		"description": "greek upsilon with acute and hook symbol",
+		"folded": "ϓ"
+	},
+	{
+		"character": "ϔ",
+		"description": "greek upsilon with diaeresis and hook symbol",
+		"folded": "ϔ"
+	},
+	{
+		"character": "ϕ",
+		"description": "greek phi symbol",
+		"folded": "ϕ"
+	},
+	{
+		"character": "ϖ",
+		"description": "greek pi symbol",
+		"folded": "ϖ"
+	},
+	{
+		"character": "ϗ",
+		"description": "greek kai symbol",
+		"folded": "ϗ"
+	},
+	{
+		"character": "Ϙ",
+		"description": "greek letter archaic koppa",
+		"folded": "ϙ"
+	},
+	{
+		"character": "ϙ",
+		"description": "greek small letter archaic koppa",
+		"folded": "ϙ"
+	},
+	{
+		"character": "Ϛ",
+		"description": "greek letter stigma",
+		"folded": "ϛ"
+	},
+	{
+		"character": "ϛ",
+		"description": "greek small letter stigma",
+		"folded": "ϛ"
+	},
+	{
+		"character": "Ϝ",
+		"description": "greek letter digamma",
+		"folded": "ϝ"
+	},
+	{
+		"character": "ϝ",
+		"description": "greek small letter digamma",
+		"folded": "ϝ"
+	},
+	{
+		"character": "Ϟ",
+		"description": "greek letter koppa",
+		"folded": "ϟ"
+	},
+	{
+		"character": "ϟ",
+		"description": "greek small letter koppa",
+		"folded": "ϟ"
+	},
+	{
+		"character": "Ϡ",
+		"description": "greek letter sampi",
+		"folded": "ϡ"
+	},
+	{
+		"character": "ϡ",
+		"description": "greek small letter sampi",
+		"folded": "ϡ"
+	},
+	{
+		"character": "Ϣ",
+		"description": "coptic capital letter shei",
+		"folded": "ϣ"
+	},
+	{
+		"character": "ϣ",
+		"description": "coptic small letter shei",
+		"folded": "ϣ"
+	},
+	{
+		"character": "Ϥ",
+		"description": "coptic capital letter fei",
+		"folded": "ϥ"
+	},
+	{
+		"character": "ϥ",
+		"description": "coptic small letter fei",
+		"folded": "ϥ"
+	},
+	{
+		"character": "Ϧ",
+		"description": "coptic capital letter khei",
+		"folded": "ϧ"
+	},
+	{
+		"character": "ϧ",
+		"description": "coptic small letter khei",
+		"folded": "ϧ"
+	},
+	{
+		"character": "Ϩ",
+		"description": "coptic capital letter hori",
+		"folded": "ϩ"
+	},
+	{
+		"character": "ϩ",
+		"description": "coptic small letter hori",
+		"folded": "ϩ"
+	},
+	{
+		"character": "Ϫ",
+		"description": "coptic capital letter gangia",
+		"folded": "ϫ"
+	},
+	{
+		"character": "ϫ",
+		"description": "coptic small letter gangia",
+		"folded": "ϫ"
+	},
+	{
+		"character": "Ϭ",
+		"description": "coptic capital letter shima",
+		"folded": "ϭ"
+	},
+	{
+		"character": "ϭ",
+		"description": "coptic small letter shima",
+		"folded": "ϭ"
+	},
+	{
+		"character": "Ϯ",
+		"description": "coptic capital letter dei",
+		"folded": "ϯ"
+	},
+	{
+		"character": "ϯ",
+		"description": "coptic small letter dei",
+		"folded": "ϯ"
+	},
+	{
+		"character": "ϰ",
+		"description": "greek kappa symbol",
+		"folded": "ϰ"
+	},
+	{
+		"character": "ϱ",
+		"description": "greek rho symbol",
+		"folded": "ϱ"
+	},
+	{
+		"character": "ϲ",
+		"description": "greek lunate sigma symbol",
+		"folded": "ϲ"
+	},
+	{
+		"character": "ϳ",
+		"description": "greek letter yot",
+		"folded": "ϳ"
+	},
+	{
+		"character": "ϴ",
+		"description": "greek capital theta symbol",
+		"folded": "θ"
+	},
+	{
+		"character": "ϵ",
+		"description": "greek lunate epsilon symbol",
+		"folded": "ϵ"
+	},
+	{
+		"character": "϶",
+		"description": "greek reversed lunate epsilon symbol",
+		"folded": "϶"
+	},
+	{
+		"character": "Ϸ",
+		"description": "greek capital letter sho",
+		"folded": "ϸ"
+	},
+	{
+		"character": "ϸ",
+		"description": "greek small letter sho",
+		"folded": "ϸ"
+	},
+	{
+		"character": "Ϲ",
+		"description": "greek capital lunate sigma symbol",
+		"folded": "ϲ"
+	},
+	{
+		"character": "Ϻ",
+		"description": "greek capital letter san",
+		"folded": "ϻ"
+	},
+	{
+		"character": "ϻ",
+		"description": "greek small letter san",
+		"folded": "ϻ"
+	},
+	{
+		"character": "ϼ",
+		"description": "greek rho with stroke symbol",
+		"folded": "ϼ"
+	},
+	{
+		"character": "Ͻ",
+		"description": "greek capital reversed lunate sigma symbol",
+		"folded": "ͻ"
+	},
+	{
+		"character": "Ͼ",
+		"description": "greek capital dotted lunate sigma symbol",
+		"folded": "ͼ"
+	},
+	{
+		"character": "Ͽ",
+		"description": "greek capital reversed dotted lunate sigma symbol",
+		"folded": "ͽ"
+	},
+	{
+		"character": "Ѐ",
+		"description": "cyrillic capital letter ie with grave",
+		"folded": "ѐ"
+	},
+	{
+		"character": "Ё",
+		"description": "cyrillic capital letter io",
+		"folded": "ё"
+	},
+	{
+		"character": "Ђ",
+		"description": "cyrillic capital letter dje",
+		"folded": "ђ"
+	},
+	{
+		"character": "Ѓ",
+		"description": "cyrillic capital letter gje",
+		"folded": "ѓ"
+	},
+	{
+		"character": "Є",
+		"description": "cyrillic capital letter ukrainian ie",
+		"folded": "є"
+	},
+	{
+		"character": "Ѕ",
+		"description": "cyrillic capital letter dze",
+		"folded": "ѕ"
+	},
+	{
+		"character": "І",
+		"description": "cyrillic capital letter byelorussian-ukrainian i",
+		"folded": "і"
+	},
+	{
+		"character": "Ї",
+		"description": "cyrillic capital letter yi",
+		"folded": "ї"
+	},
+	{
+		"character": "Ј",
+		"description": "cyrillic capital letter je",
+		"folded": "ј"
+	},
+  {
+    "character": "�",
+    "description": "null",
+    "folded": "�"
+  },
+  {
+    "character": "\u0001",
+    "description": "start of heading",
+    "folded": "\u0001"
+  },
+  {
+    "character": "\u0002",
+    "description": "start of text",
+    "folded": "\u0002"
+  },
+  {
+    "character": "\u0003",
+    "description": "end of text",
+    "folded": "\u0003"
+  },
+  {
+    "character": "\u0004",
+    "description": "end of transmission",
+    "folded": "\u0004"
+  },
+  {
+    "character": "\u0005",
+    "description": "enquiry",
+    "folded": "\u0005"
+  },
+  {
+    "character": "\u0006",
+    "description": "acknowledge",
+    "folded": "\u0006"
+  },
+  {
+    "character": "\u0007",
+    "description": "bell",
+    "folded": "\u0007"
+  },
+  {
+    "character": "\b",
+    "description": "backspace",
+    "folded": "\b"
+  },
+  {
+    "character": "\t",
+    "description": "character tabulation",
+    "folded": "\t"
+  },
+  {
+    "character": "\n",
+    "description": "line feed (lf)",
+    "folded": "\n"
+  },
+  {
+    "character": "\u000b",
+    "description": "line tabulation",
+    "folded": "\u000b"
+  },
+  {
+    "character": "\f",
+    "description": "form feed (ff)",
+    "folded": "\f"
+  },
+  {
+    "character": "\r",
+    "description": "carriage return (cr)",
+    "folded": "\r"
+  },
+  {
+    "character": "\u000e",
+    "description": "shift out",
+    "folded": "\u000e"
+  },
+  {
+    "character": "\u000f",
+    "description": "shift in",
+    "folded": "\u000f"
+  },
+  {
+    "character": "\u0010",
+    "description": "data link escape",
+    "folded": "\u0010"
+  },
+  {
+    "character": "\u0011",
+    "description": "device control one",
+    "folded": "\u0011"
+  },
+  {
+    "character": "\u0012",
+    "description": "device control two",
+    "folded": "\u0012"
+  },
+  {
+    "character": "\u0013",
+    "description": "device control three",
+    "folded": "\u0013"
+  },
+  {
+    "character": "\u0014",
+    "description": "device control four",
+    "folded": "\u0014"
+  },
+  {
+    "character": "\u0015",
+    "description": "negative acknowledge",
+    "folded": "\u0015"
+  },
+  {
+    "character": "\u0016",
+    "description": "synchronous idle",
+    "folded": "\u0016"
+  },
+  {
+    "character": "\u0017",
+    "description": "end of transmission block",
+    "folded": "\u0017"
+  },
+  {
+    "character": "\u0018",
+    "description": "cancel",
+    "folded": "\u0018"
+  },
+  {
+    "character": "\u0019",
+    "description": "end of medium",
+    "folded": "\u0019"
+  },
+  {
+    "character": "\u001a",
+    "description": "substitute",
+    "folded": "\u001a"
+  },
+  {
+    "character": "\u001b",
+    "description": "escape",
+    "folded": "\u001b"
+  },
+  {
+    "character": "\u001c",
+    "description": "information separator four",
+    "folded": "\u001c"
+  },
+  {
+    "character": "\u001d",
+    "description": "information separator three",
+    "folded": "\u001d"
+  },
+  {
+    "character": "\u001e",
+    "description": "information separator two",
+    "folded": "\u001e"
+  },
+  {
+    "character": "\u001f",
+    "description": "information separator one",
+    "folded": "\u001f"
+  },
+  {
+    "character": " ",
+    "description": "space",
+    "folded": " "
+  }
+]
