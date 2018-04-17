@@ -1,6 +1,6 @@
 {
   "name": "accent-fold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Case-insensitive accent folding function to replace an accented character with its unaccented counterpart.",
   "author": "tyler peterson <tylerjpeterson@gmail.com>",
   "main": "index.js",
